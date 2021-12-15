@@ -8,42 +8,47 @@ author_profile: true
 Conference Papers
 -----------------
 
-1. Infinite Time Horizon Safety of Bayesian Neural Networks <br/>
-To appear in the 35th Conference on Neural Information Processing Systems. **NeurIPS 2021**<br/>
+1. Stability Verification in Stochastic Control Systems via Neural Network Supermartingales <br/>
+To appear in the 36th AAAI Conference on Artificial Intelligence. **AAAI 2022**<br/>
 Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
+
+2. Infinite Time Horizon Safety of Bayesian Neural Networks <br/>
+35th Conference on Neural Information Processing Systems. **NeurIPS 2021**<br/>
+Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
+[paper](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html)
 [preprint](https://arxiv.org/abs/2111.03165)
 
-2. On Lexicographic Proof Rules for Probabilistic Termination <br/>
+3. On Lexicographic Proof Rules for Probabilistic Termination <br/>
 24th International Symposium on Formal Methods. **FM 2021**<br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33) [preprint](https://arxiv.org/abs/2108.02188)
 
-3. Proving Non-termination by Program Reversal <br/>
+4. Proving Non-termination by Program Reversal <br/>
 43rd ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2021**<br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<br/>
 [paper](https://dl.acm.org/doi/10.1145/3453483.3454093), [preprint](https://arxiv.org/abs/2104.01189)
 
-4. Scalable Verification of Quantized Neural Networks <br/>
+5. Scalable Verification of Quantized Neural Networks <br/>
 35th AAAI Conference on Artificial Intelligence. **AAAI 2021**<br/>
 Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<br/>
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16496), [preprint](https://arxiv.org/abs/2012.08185)
 
-5. Infinite-Duration All-Pay Bidding Games <br/>
+6. Infinite-Duration All-Pay Bidding Games <br/>
 ACM-SIAM Symposium on Discrete Algorithms. **SODA 2021**<br/>
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<br/>
 [paper](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [preprint](https://arxiv.org/abs/2005.06636)
 
-6. Bidding Mechanisms in Graph Games <br/>
+7. Bidding Mechanisms in Graph Games <br/>
 44th International Symposium on Mathematical Foundations of Computer Science. **MFCS 2019**<br/>
 Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<br/>
 [paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/), [preprint](https://arxiv.org/abs/1905.03835)
 
-7. Optimizing Expectation with Guarantees in POMDP <br/>
+8. Optimizing Expectation with Guarantees in POMDP <br/>
 31st AAAI Conference on Artificial Intelligence. **AAAI 2017**<br/>
 Krishnendu Chatterjee, Petr Novotný,  Guillermo A. Perez, Jean-Francois Raskin, Đorđe Žikelić<br/>
 [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14354), [preprint](https://arxiv.org/abs/1611.08696)
 
-8. Stochastic invariants for probabilistic termination <br/>
+9. Stochastic invariants for probabilistic termination <br/>
 44th ACM SIGPLAN Symposium on Principles of Programming Languages. **POPL 2017**<br/>
 Krishnendu Chatterjee, Petr Novotný, Đorđe Žikelić<br/>
 [paper](https://dl.acm.org/doi/10.1145/3009837.3009873), [preprint](https://arxiv.org/abs/1611.01063)
