@@ -7,22 +7,24 @@ redirect_from:
   - /resume
 ---
 
-Below you may find my education and work history, and my full CV can be downloaded  [here](CV_Zikelic.pdf).
+Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic.pdf) (last updated February 7, 2022).
 
 Education
 ======
-* BA & MMath in Mathematics, University of Cambridge, UK, 2014 - 2018
 * Ph.D in Computer Science, IST Austria, 2018 - 2023 (expected)
+* BA & MMath in Mathematics, University of Cambridge, UK, 2014 - 2018
+* Mathematical Grammar School, Belgrade, Serbia, 2010 - 2014
 
 Internships
 ======
 * October 2020 -January 2021: Applied Science Intern
   * Amazon
-  * Project: Differential cost analysis
+  * Project: Differential cost analysis (results under submission)
+  * Supervisors: Pauline Bolignano, Bor-Yuh Evan Chang
 
 * July 2017 - September 2017: Research Intern
   * University of Cambridge
-  * Project: Morse Theory (study project on relevant topics in differential geometry and algebraic topology)
+  * Project: Aspects of Morse Theory (study of topics in differential geometry and algebraic topology)
   * Supervisor: Alexei Kovalev
 
 * Summer 2016: ISTernship (summer research internship)

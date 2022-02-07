@@ -46,7 +46,7 @@ Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>+</sup><br/>
 Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>+</sup><br/>
 [paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/), [preprint](https://arxiv.org/abs/1905.03835)
 
-8. Optimizing Expectation with Guarantees in POMDP <br/>
+8. Optimizing Expectation with Guarantees in POMDPs <br/>
 31st AAAI Conference on Artificial Intelligence. **AAAI 2017**<br/>
 Krishnendu Chatterjee, Petr Novotný,  Guillermo A. Perez, Jean-Francois Raskin, Đorđe Žikelić<sup>+</sup><br/>
 [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14354), [preprint](https://arxiv.org/abs/1611.08696)
