@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic1.pdf) (last updated February 10, 2022).
+Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic.pdf) (last updated February 10, 2022).
 
 Education
 ======
@@ -19,8 +19,7 @@ Internships
 ======
 * October 2020 -January 2021: Applied Science Intern
   * Amazon
-  * Project: Differential cost analysis (results under submission)
-  * Supervisors: Pauline Bolignano, Bor-Yuh Evan Chang
+  * Project: Differential cost analysis (PLDI 2022)
 
 * July 2017 - September 2017: Research Intern
   * University of Cambridge
