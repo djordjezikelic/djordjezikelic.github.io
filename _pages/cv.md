@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic.pdf) (last updated April 14, 2022).
+Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic.pdf) (last updated June 9, 2022).
 
 Education
 ======

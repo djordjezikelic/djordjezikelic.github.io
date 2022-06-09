@@ -17,7 +17,7 @@ Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Ž
 
 2. Differential Cost Analysis with Simultaneous Potentials and Anti-potentials <br/>
 To appear in the 44th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2022**<br/>
-Đorđe Žikelić, Bor-Yuh Evan Chang, Pauline Bolignano, Franco Raimondi
+Đorđe Žikelić, Bor-Yuh Evan Chang, Pauline Bolignano, Franco Raimondi <br>
 [preprint](https://arxiv.org/abs/2204.00870)
 
 3. Stability Verification in Stochastic Control Systems via Neural Network Supermartingales <br/>
