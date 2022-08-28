@@ -11,18 +11,21 @@ Conference Papers
 -----------------
 
 1. Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs <br>
-To appear in the 34th International Conference on Computer Aided Verification. **CAV 2022** <br>
+34th International Conference on Computer Aided Verification. **CAV 2022** <br>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>+</sup><br/>
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4)
 [preprint](https://hal.archives-ouvertes.fr/hal-03675086/)
 
 2. Differential Cost Analysis with Simultaneous Potentials and Anti-potentials <br/>
-To appear in the 44th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2022**<br/>
+44th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2022**<br/>
 Đorđe Žikelić, Bor-Yuh Evan Chang, Pauline Bolignano, Franco Raimondi <br>
+[paper](https://dl.acm.org/doi/abs/10.1145/3519939.3523435)
 [preprint](https://arxiv.org/abs/2204.00870)
 
 3. Stability Verification in Stochastic Control Systems via Neural Network Supermartingales <br/>
-To appear in the 36th AAAI Conference on Artificial Intelligence. **AAAI 2022**<br/>
+36th AAAI Conference on Artificial Intelligence. **AAAI 2022**<br/>
 Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20695)
 [preprint](https://arxiv.org/abs/2112.09495)
 
 4. Infinite Time Horizon Safety of Bayesian Neural Networks <br/>

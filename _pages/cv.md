@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic.pdf) (last updated June 9, 2022).
+Below you may find key milestones in my education and work history. My full CV containing additional information on awards, supervision, teaching, talks and skills can be downloaded  [here](CV_Zikelic.pdf) (last updated August 28, 2022).
 
 Education
 ======
@@ -17,7 +17,11 @@ Education
 
 Internships
 ======
-* October 2020 -January 2021: Applied Science Intern
+* August 2022 - October 2022: Applied Science Intern
+  * Amazon
+  * Project: Ongoing
+
+* October 2020 - January 2021: Applied Science Intern
   * Amazon
   * Project: Differential cost analysis (PLDI 2022)
 
