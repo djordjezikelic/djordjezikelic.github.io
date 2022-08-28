@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth year PhD student at IST Austria where I am supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Prior to IST, I obtained my undergraduate and master degrees in mathematics at the University of Cambridge, where I was a student at the lovely Gonville & Caius College.
 
-**New:** I will be joining Amazon as an Applied Scientist Intern in London, UK, from August - October 2022! 
+**New:** I have joined Amazon as a (returning) Applied Scientist Intern in London, UK, during the period of August - October 2022.
 
 <!--My research focuses on developing algorithms for formally verifying correctness of software and for control with safety guarantees. Software is used in virtually all aspects of everyday life, and software systems are becoming ever more complex. Due to this high complexity, automated approaches are necessary to check that software is correct. Another domain in which formal guarantees are critical are systems with learned components. Recent years have seen tremendous success of machine learning and there is a natural aspiration to use machine learning in safety-critical applications such as autonomous driving or healthcare. Being able to provide formal safety guarantees in such systems is fundamental, since unsafe behavior can lead to catastrophic consequences.-->
 
@@ -32,26 +32,22 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 # News
 
-* <span style="color:grey">August 2022</span>\. Program committee (PC) member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+* <span style="color:grey">August 2022</span>\. Program committee member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 
-* <span style="color:grey">August 2022</span>\. Attended [FLoC 2022](https://www.floc2022.org/) in Haifa, Israel, and presented our paper [Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs](https://hal.archives-ouvertes.fr/hal-03675086/) at [CAV 2022](http://i-cav.org/2022/).
+* <span style="color:grey">August 2022</span>\. Attended [FLoC 2022](https://www.floc2022.org/) and presented our paper [Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs](https://hal.archives-ouvertes.fr/hal-03675086/) at [CAV 2022](http://i-cav.org/2022/) in Haifa, Israel. Thanks to my collaborators Krishnendu Chatterjee, Amir Kafshdar Goharshady and Tobias Meggendorfer.
 
-* <span style="color:grey">August 2022</span>\. I have joined Amazon as a (returning) Applied Scientist Intern in London for the period of August - October 2022. Looking forward to another great experience at Amazon!
+* <span style="color:grey">August 2022</span>\. I have joined Amazon as a (returning) Applied Scientist Intern in London during the period of August - October 2022. Looking forward to another great experience here!
 
 * <span style="color:grey">June 2022</span>\. Very excited to share that our [PLDI 2022](https://pldi22.sigplan.org/) paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://dl.acm.org/doi/abs/10.1145/3519939.3523435) was featured in an Amazon Science [blog post](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)!
 
-* <span style="color:grey">June 2022</span>\. Attended [PLDI 2022](https://pldi22.sigplan.org/) in San Diego, US, and presented our paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://dl.acm.org/doi/abs/10.1145/3519939.3523435).
-
-* <span style="color:grey">May 2022</span>\. Our paper [Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs](https://hal.archives-ouvertes.fr/hal-03675086/) has been accepted at [CAV 2022](http://i-cav.org/2022/)! Thanks to my collaborators Krishnendu Chatterjee, Amir Kafshdar Goharshady and Tobias Meggendorfer.
+* <span style="color:grey">June 2022</span>\. Presented our paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://dl.acm.org/doi/abs/10.1145/3519939.3523435) at [PLDI 2022](https://pldi22.sigplan.org/) in San Diego, US. The paper resulted from my internship project at Amazon in 2020. Thanks to my collaborators Bor-Yuh Evan Chang, Pauline Bolignano and Franco Raimondi.
 
 * <span style="color:grey">April 2022</span>\. Presented our workshop paper [Learning Stabilizing Policies in Stochastic Control Systems](https://arxiv.org/abs/2205.11991) at [SRML@ICLR 2022](https://iclrsrml.github.io/). Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.
 
-* <span style="color:grey">April 2022</span>\. Our paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://arxiv.org/abs/2204.00870) has been accepted at [PLDI 2022](https://pldi22.sigplan.org/)! The paper resulted from my internship project at Amazon in 2020. Thanks to my collaborators Bor-Yuh Evan Chang, Pauline Bolignano and Franco Raimondi.
-
 * <span style="color:grey">February 2022</span>\. I am happy to be shortlisted as a finalist for the Meta PhD Research Fellowship in the programming languages category! See the announcement [here](https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/).
 
-* <span style="color:grey">February 2022</span>\. Attended the [Logic of Probabilistic Programming](https://conferences.cirm-math.fr/2686.html) conference at CIRM, Marseille, France. Excited to finally attend a physical conference!
+<!--* <span style="color:grey">February 2022</span>\. Attended the [Logic of Probabilistic Programming](https://conferences.cirm-math.fr/2686.html) conference at CIRM, Marseille, France. Excited to finally attend a physical conference!
 
-<!--* <span style="color:grey">December 2021</span>\. Our paper [Stability Verification in Stochastic Control Systems via Neural Network Supermartingales](https://ojs.aaai.org/index.php/AAAI/article/view/20695) has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)! Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.
+* <span style="color:grey">December 2021</span>\. Our paper [Stability Verification in Stochastic Control Systems via Neural Network Supermartingales](https://ojs.aaai.org/index.php/AAAI/article/view/20695) has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)! Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.
 
-* <span style="color:grey">December 2021</span>\. Presented our paper [Infinite Time Horizon Safety of Bayesian Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html) at [NeurIPS 2021](https://neurips.cc/Conferences/2021) (virtual). Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.--!>
+* <span style="color:grey">December 2021</span>\. Presented our paper [Infinite Time Horizon Safety of Bayesian Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html) at [NeurIPS 2021](https://neurips.cc/Conferences/2021) (virtual). Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.-->
