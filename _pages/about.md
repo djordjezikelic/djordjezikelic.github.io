@@ -32,9 +32,9 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 # News
 
-* <span style="color:grey">September 2022</span>\. Our work Algorithms and Hardness Results for Computing Cores of Markov Chains has ben accepted at [FSTTCS 2022](https://www.fsttcs.org.in/2022/). Thanks to my collaborators Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer and Roodabeh Safavi!
+* <span style="color:grey">September 2022</span>\. Our work Algorithms and Hardness Results for Computing Cores of Markov Chains has ben accepted at [FSTTCS 2022](https://www.fsttcs.org.in/2022/). Thanks to my collaborators Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer and Roodabeh Safavi.
 
-* <span style="color:grey">September 2022</span>\. Our work Social Balance on Networks: Local Minima and Best-edge Dynamics has been accepted at [Physical Review E](https://journals.aps.org/pre/). Thanks to my collaborators Krishnendu Chatterjee, Jakub Svoboda, Andreas Pavlogiannis and Josef Tkadlec!
+* <span style="color:grey">September 2022</span>\. Our work Social Balance on Networks: Local Minima and Best-edge Dynamics has been accepted at [Physical Review E](https://journals.aps.org/pre/). Thanks to my collaborators Krishnendu Chatterjee, Jakub Svoboda, Andreas Pavlogiannis and Josef Tkadlec.
 
 * <span style="color:grey">August 2022</span>\. Program committee member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 
