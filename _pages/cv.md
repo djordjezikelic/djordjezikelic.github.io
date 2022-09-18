@@ -17,11 +17,11 @@ Education
 
 Internships
 ======
-* August 2022 - October 2022: Applied Science Intern
+* August 2022 - October 2022: Applied Scientist Intern
   * Amazon
   * Project: Ongoing
 
-* October 2020 - January 2021: Applied Science Intern
+* October 2020 - January 2021: Applied Scientist Intern
   * Amazon
   * Project: Differential cost analysis (PLDI 2022)
 
