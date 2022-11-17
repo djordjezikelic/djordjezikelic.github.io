@@ -10,7 +10,7 @@ author_profile: true
 # Conference Papers
 
 1. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
-To appear at the 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
+42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
 Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Roodabeh Safavi, Đorđe Žikelić<sup>+</sup><br/>
 [preprint](https://hal.archives-ouvertes.fr/hal-03808158/)
 
