@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at IST Austria where I am supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Prior to IST, I obtained my undergraduate and master degrees in mathematics at the University of Cambridge, where I was a student at the lovely Gonville & Caius College.
+I am a final year PhD student at IST Austria where I am supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Prior to IST, I obtained my undergraduate and master degrees in mathematics at the University of Cambridge, where I was a student at the lovely Gonville & Caius College. You may find my CV  [here](CV_Zikelic.pdf).
 
-Since August 2022, I have joined Amazon as a (returning) Applied Scientist Intern with the Prime Video Automated Reasoning team in London. Looking forward to another great experience here!
+I am on **(academic and industry) job market**. If you think that I would be a good fit for your department or team, please do reach out!
 
 <!--My research focuses on developing algorithms for formally verifying correctness of software and for control with safety guarantees. Software is used in virtually all aspects of everyday life, and software systems are becoming ever more complex. Due to this high complexity, automated approaches are necessary to check that software is correct. Another domain in which formal guarantees are critical are systems with learned components. Recent years have seen tremendous success of machine learning and there is a natural aspiration to use machine learning in safety-critical applications such as autonomous driving or healthcare. Being able to provide formal safety guarantees in such systems is fundamental, since unsafe behavior can lead to catastrophic consequences.-->
 
@@ -42,14 +42,4 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 * <span style="color:grey">June 2022</span>\. Very excited to share that our [PLDI 2022](https://pldi22.sigplan.org/) paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://dl.acm.org/doi/abs/10.1145/3519939.3523435) was featured in an Amazon Science [blog post](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)!
 
-* <span style="color:grey">June 2022</span>\. Presented our paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://dl.acm.org/doi/abs/10.1145/3519939.3523435) at [PLDI 2022](https://pldi22.sigplan.org/) in San Diego, US. The paper resulted from my internship project at Amazon in 2020. Thanks to my collaborators Bor-Yuh Evan Chang, Pauline Bolignano and Franco Raimondi.
-
-* <span style="color:grey">April 2022</span>\. Presented our workshop paper [Learning Stabilizing Policies in Stochastic Control Systems](https://arxiv.org/abs/2205.11991) at [SRML@ICLR 2022](https://iclrsrml.github.io/). Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.
-
 * <span style="color:grey">February 2022</span>\. I am happy to be shortlisted as a finalist for the Meta PhD Research Fellowship in the programming languages category! See the announcement [here](https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/).
-
-<!--* <span style="color:grey">February 2022</span>\. Attended the [Logic of Probabilistic Programming](https://conferences.cirm-math.fr/2686.html) conference at CIRM, Marseille, France. Excited to finally attend a physical conference!
-
-* <span style="color:grey">December 2021</span>\. Our paper [Stability Verification in Stochastic Control Systems via Neural Network Supermartingales](https://ojs.aaai.org/index.php/AAAI/article/view/20695) has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)! Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.
-
-* <span style="color:grey">December 2021</span>\. Presented our paper [Infinite Time Horizon Safety of Bayesian Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html) at [NeurIPS 2021](https://neurips.cc/Conferences/2021) (virtual). Thanks to my collaborators Mathias Lechner, Krishnendu Chatterjee and Thomas A. Henzinger.-->
