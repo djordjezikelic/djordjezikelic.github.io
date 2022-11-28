@@ -32,12 +32,14 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 # News
 
-* <span style="color:grey">September 2022</span>\. Our work Algorithms and Hardness Results for Computing Cores of Markov Chains has ben accepted at [FSTTCS 2022](https://www.fsttcs.org.in/2022/). Thanks to my collaborators Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer and Roodabeh Safavi.
+* <span style="color:grey">November 2022</span>\. I will be attending [NeurIPS 2022](https://nips.cc/) in New Orleans. Reach out if you will be around and would like to connect!
 
-* <span style="color:grey">September 2022</span>\. Our work Social Balance on Networks: Local Minima and Best-edge Dynamics has been accepted at [Physical Review E](https://journals.aps.org/pre/). Thanks to my collaborators Krishnendu Chatterjee, Jakub Svoboda, Andreas Pavlogiannis and Josef Tkadlec.
+* <span style="color:grey">November 2022</span>\. Very excited to share that 3 of our papers have been accepted at [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)! 1. Learning Control Policies for Stochastic Systems with Reach-avoid Guarantees; 2. Quantization-aware Interval Bound Propagation for Training Certifiably Robust Quantized Neural Networks; 3. Bidding Graph Games with Partially-Observable Budgets. Thanks and congrats to my coauthors.
+
+* <span style="color:grey">October 2022</span>\. I have completed my internship with Amazon in London and will move back to Vienna. Thanks to the Prime Video Automated Reasoning team for hosting me for another great internship (this time in person)!
+
+* <span style="color:grey">September 2022</span>\. Our work Algorithms and Hardness Results for Computing Cores of Markov Chains has ben accepted at [FSTTCS 2022](https://www.fsttcs.org.in/2022/). Thanks and congrats to my coauthors!
+
+* <span style="color:grey">September 2022</span>\. Our work Social Balance on Networks: Local Minima and Best-edge Dynamics has been accepted at [Physical Review E](https://journals.aps.org/pre/). Thanks and congrats to my coauthors!
 
 * <span style="color:grey">August 2022</span>\. Program committee member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
-
-* <span style="color:grey">August 2022</span>\. Attended [FLoC 2022](https://www.floc2022.org/) and presented our paper [Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs](https://hal.archives-ouvertes.fr/hal-03675086/) at [CAV 2022](http://i-cav.org/2022/) in Haifa, Israel. Thanks to my collaborators Krishnendu Chatterjee, Amir Kafshdar Goharshady and Tobias Meggendorfer.
-
-* <span style="color:grey">June 2022</span>\. Very excited to share that our [PLDI 2022](https://pldi22.sigplan.org/) paper [Differential Cost Analysis with Simultaneous Potentials and Anti-potentials](https://dl.acm.org/doi/abs/10.1145/3519939.3523435) was featured in an Amazon Science [blog post](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)!
