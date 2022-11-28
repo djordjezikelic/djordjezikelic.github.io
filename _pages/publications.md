@@ -15,7 +15,7 @@ author_profile: true
 
 2. Quantization-aware Interval Bound Propagation for Training Certifiably Robust Quantized Neural Networks <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
-Mathias Lechner, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger, Daniela Rus <br/>
+Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas A. Henzinger, Daniela Rus <br/>
 
 3. Bidding Graph Games with Partially-Observable Budgets <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
