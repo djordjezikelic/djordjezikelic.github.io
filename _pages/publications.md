@@ -72,7 +72,7 @@ Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>+</sup><br/>
 
 13. Bidding Mechanisms in Graph Games <br/>
 44th International Symposium on Mathematical Foundations of Computer Science. **MFCS 2019**<br/>
-Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>+</sup><br/>[paper MFCS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10955/),
+Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>+</sup><br/>[paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/),
 [preprint](https://arxiv.org/abs/1905.03835)
 
 14. Optimizing Expectation with Guarantees in POMDPs <br/>
