@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+code.r{
+  font-size: 20px;
+}
+pre {
+  font-size: 20px
+}
+</style>
+
 I am a final year PhD student at IST Austria where I am supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Prior to IST, I obtained my undergraduate and master degrees in mathematics at the University of Cambridge, where I was a student at the lovely Gonville & Caius College. You may find my CV  [here](CV_Zikelic.pdf).
 
 I am on the **(academic and industry) job market**. If you think that I would be a good fit for your department or team, please do reach out!
