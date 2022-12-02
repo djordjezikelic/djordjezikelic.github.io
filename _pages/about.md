@@ -49,7 +49,7 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 * <span style="color:grey">November 2022</span>\. Very excited to share that 3 of our papers have been accepted at AAAI 2023! 1. [Learning Control Policies for Stochastic Systems with Reach-avoid Guarantees](https://arxiv.org/abs/2210.05308); 2. [Quantization-aware Interval Bound Propagation for Training Certifiably Robust Quantized Neural Networks](https://arxiv.org/abs/2211.16187); 3. [Bidding Graph Games with Partially-Observable Budgets](https://arxiv.org/abs/2211.13626). Thanks and congrats to my coauthors.
 
-* <span style="color:grey">October 2022</span>\. I have completed my internship with Amazon in London and will move back to Vienna. Thanks to the Prime Video Automated Reasoning team for hosting me for another great internship (this time in person)!
+* <span style="color:grey">October 2022</span>\. I have completed my internship with Amazon in London and will move back to Vienna. Thanks to the Prime Video Automated Reasoning team for hosting me for another great internship!
 
 * <span style="color:grey">September 2022</span>\. Our work [Algorithms and Hardness Results for Computing Cores of Markov Chains](https://hal.archives-ouvertes.fr/hal-03808158/) has ben accepted at FSTTCS 2022. Thanks and congrats to my coauthors!
 
