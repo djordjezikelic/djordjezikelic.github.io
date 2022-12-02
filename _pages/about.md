@@ -17,11 +17,11 @@ I am on the **(academic and industry) job market**. If you think that I would be
 # Research Interests
 
 My research focuses on developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** research in order to design mathematically rigorous yet fully automated and scalable methods for providing formal guarantees about programs, systems with learned components as well as for safe learning. More concretely, my research interests include:
-- Verification
+- Formal Verification
 - Static Program Analysis
 - Neural Network Verification
+- Learning-based Control
 - Safe Reinforcement Learning
-- Probabilistic Programming
 - Game Theory
 
 # Research Highlights
