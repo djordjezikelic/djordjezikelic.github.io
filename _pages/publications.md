@@ -8,7 +8,7 @@ author_profile: true
 <style type="text/css">
 
 body, td {
-   font-size: 14px;
+   font-size: 16px;
 }
 code.r{
   font-size: 20px;
@@ -17,10 +17,6 @@ pre {
   font-size: 20px
 }
 </style>
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 <sup>∗</sup> equal contribution, <sup>+</sup> authors ordered alphabetically
 
