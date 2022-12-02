@@ -12,14 +12,17 @@ author_profile: true
 1. Learning Control Policies for Stochastic Systems with Reach-avoid Guarantees <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
 Đorđe Žikelić<sup>∗</sup>, Mathias Lechner<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
+[preprint](https://arxiv.org/abs/2210.05308)
 
 2. Quantization-aware Interval Bound Propagation for Training Certifiably Robust Quantized Neural Networks <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
 Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas A. Henzinger, Daniela Rus <br/>
+[preprint](https://arxiv.org/abs/2211.16187)
 
 3. Bidding Graph Games with Partially-Observable Budgets <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>+</sup><br/>
+[preprint](https://arxiv.org/abs/2211.13626)
 
 4. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
