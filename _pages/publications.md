@@ -103,18 +103,23 @@ Krishnendu Chatterjee, Petr Novotný, Đorđe Žikelić<sup>+</sup><br/>
 
 # Journal Papers
 
-1. Social Balance on Networks: Local Minima and Best-edge Dynamics <br/>
+1. On Lexicographic Proof Rules for Probabilistic Termination <br/>
+To appear in Formal Aspects of Computing. **FAC 2023** <br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>+</sup><br/>
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33), [preprint](https://arxiv.org/abs/2108.02188)
+
+2. Social Balance on Networks: Local Minima and Best-edge Dynamics <br/>
 Physical Review E. **PRE 2022** <br/>
 Krishnendu Chatterjee, Jakub Svoboda, Đorđe Žikelić, Andreas Pavlogiannis and Josef Tkadlec<br/>
 [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034321),
 [preprint](https://arxiv.org/abs/2210.02394)
 
-2. Bidding Mechanisms in Graph Games <br/>
+3. Bidding Mechanisms in Graph Games <br/>
 Journal of Computer and System Sciences 119. **JCSS 2021**<br/>
 Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>+</sup><br/>
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022000021000234?via%3Dihub)
 
-3. Theorems about quadrilaterals and conics <br/>
+4. Theorems about quadrilaterals and conics <br/>
 International Journal of Computer Mathematics 91 (7). **Int. J. Comp. Math. 2014**<br/>
 Đorđe Baralić, Branko Grbić, Đorđe Žikelić<sup>+</sup><br/>
 [paper](https://www.tandfonline.com/doi/abs/10.1080/00207160.2013.844338)
