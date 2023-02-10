@@ -45,6 +45,8 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 # News
 
+* <span style="color:grey">February 2023</span>\. Our work *On Lexicographic Proof Rules for Probabilistic Termination* has been accepted in Formal Aspects of Computing. Thanks and congrats to my coauthors!
+
 * <span style="color:grey">January 2023</span>\. I will be attending [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) in Washington, D.C., for the whole duration of the conference. Reach out if you will be around and would like to connect!
 
 * <span style="color:grey">January 2023</span>\. Artifact Evaluation Committee member for [CAV 2023](http://www.i-cav.org/2023/organisation/).
@@ -58,5 +60,3 @@ I also study bidding games on graphs. These are a class of games that model ongo
 Thanks and congrats to my coauthors.
 
 * <span style="color:grey">October 2022</span>\. I have completed my internship with Amazon in London and will move back to Vienna. Thanks to the Prime Video Automated Reasoning team for hosting me for another great internship!
-
-* <span style="color:grey">September 2022</span>\. Our work [Algorithms and Hardness Results for Computing Cores of Markov Chains](https://hal.archives-ouvertes.fr/hal-03808158/) has ben accepted at FSTTCS 2022. Thanks and congrats to my coauthors!
