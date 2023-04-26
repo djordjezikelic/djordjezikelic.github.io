@@ -11,10 +11,10 @@ body, td {
    font-size: 14px;
 }
 code.r{
-  font-size: 18px;
+  font-size: 20px;
 }
 pre {
-  font-size: 18px
+  font-size: 20px
 }
 </style>
 
