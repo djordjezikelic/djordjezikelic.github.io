@@ -57,16 +57,15 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 # News
 
-* <span style="color:grey">February 2023</span>\. Our work *MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives* has been accepted at CAV 2023. Thanks and congrats to my coauthors!
+* <span style="color:grey">February 2023</span>\. Our work *MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives* has been accepted at [CAV 2023](http://www.i-cav.org/2023/). Thanks and congrats to my coauthors!
 
-* <span style="color:grey">February 2023</span>\. Our work *On Lexicographic Proof Rules for Probabilistic Termination* has been accepted in Formal Aspects of Computing. Thanks and congrats to my coauthors!
+* <span style="color:grey">February 2023</span>\. Our work *On Lexicographic Proof Rules for Probabilistic Termination* has been accepted in [Formal Aspects of Computing](https://dl.acm.org/toc/fac/justaccepted). Thanks and congrats to my coauthors!
 
 * <span style="color:grey">January 2023</span>\. I will be attending [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) in Washington, D.C., for the whole duration of the conference. Reach out if you will be around and would like to connect!
 
 * <span style="color:grey">January 2023</span>\. Artifact Evaluation Committee member for [CAV 2023](http://www.i-cav.org/2023/organisation/).
 
-* <span style="color:grey">November 2022</span>\. Very excited to share that 3 of our papers have been accepted at AAAI 2023! <br/>
-1. [Learning Control Policies for Stochastic Systems with Reach-avoid Guarantees](https://arxiv.org/abs/2210.05308) <br/>
-2. [Quantization-aware Interval Bound Propagation for Training Certifiably Robust Quantized Neural Networks](https://arxiv.org/abs/2211.16187) <br/>
-3. [Bidding Graph Games with Partially-Observable Budgets](https://arxiv.org/abs/2211.13626) <br/>
-Thanks and congrats to my coauthors.
+* <span style="color:grey">November 2022</span>\. Very excited to share that 3 of our papers have been accepted at AAAI 2023. Thanks and congrats to my coauthors! <br/>
+1. *Learning Control Policies for Stochastic Systems with Reach-avoid Guarantees* <br/>
+2. *Quantization-aware Interval Bound Propagation for Training Certifiably Robust Quantized Neural Networks* <br/>
+3. *Bidding Graph Games with Partially-Observable Budgets* <br/>
