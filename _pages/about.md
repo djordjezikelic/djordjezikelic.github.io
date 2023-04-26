@@ -11,13 +11,13 @@ redirect_from:
 <style type="text/css">
 
 body, td {
-   font-size: 16px;
+   font-size: 14px;
 }
 code.r{
-  font-size: 20px;
+  font-size: 18px;
 }
 pre {
-  font-size: 20px
+  font-size: 18px
 }
 </style>
 
