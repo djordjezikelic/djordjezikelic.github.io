@@ -50,7 +50,7 @@ Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>+</sup><br/>
 6. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
 Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Roodabeh Safavi, Đorđe Žikelić<sup>+</sup><br/>
-[paper](https://drops.dagstuhl.de/opus/volltexte/2022/17421/)[preprint](https://hal.archives-ouvertes.fr/hal-03808158/)
+[paper](https://drops.dagstuhl.de/opus/volltexte/2022/17421/), [preprint](https://hal.archives-ouvertes.fr/hal-03808158/)
 
 7. Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs <br>
 34th International Conference on Computer Aided Verification. **CAV 2022** <br>
