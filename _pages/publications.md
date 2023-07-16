@@ -18,7 +18,7 @@ pre {
 }
 </style>
 
-<sup>∗</sup> equal contribution, <sup>+</sup> authors ordered alphabetically
+<sup>∗</sup> equal contribution, <sup>&dagger;</sup> authors ordered alphabetically
 
 # Conference and Journal Papers
 
