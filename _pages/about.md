@@ -59,7 +59,7 @@ I also study bidding games on graphs. These are a class of games that model ongo
     - Our work [MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives](https://arxiv.org/pdf/2305.16796.pdf) at CAV.
     - Keynote talk *From Probabilistic Program Analysis to Learning-based Stochastic Control  with Martingales* at the [VeriProP](https://veriprop.github.io/2023/) workshop.
 
-I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
+    I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
 
 * <span style="color:grey">July 2023</span>\. Our work *Reachability Poorman Discrete-Bidding Games* has been accepted at [ECAI 2023](https://ecai2023.eu/). Thanks and congrats to my coauthors!
 
