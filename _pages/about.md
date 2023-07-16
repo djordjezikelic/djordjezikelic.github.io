@@ -61,9 +61,9 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
 
-* <span style="color:grey">July 2023</span>\. Our work *Reachability Poorman Discrete-Bidding Games* has been accepted to [ECAI 2023](https://ecai2023.eu/). Thanks and congrats to my coauthors!
+* <span style="color:grey">July 2023</span>\. Our work *Reachability Poorman Discrete-Bidding Games* has been accepted at [ECAI 2023](https://ecai2023.eu/). Thanks and congrats to my coauthors!
 
-* <span style="color:grey">July 2023</span>\. Our work *Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems* has been accepted to [ATVA 2023](https://atva-conference.org/2023/). Thanks and congrats to my coauthors! I am particularly excited about attending a conference at SMU. :)
+* <span style="color:grey">July 2023</span>\. Our work *Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems* has been accepted at [ATVA 2023](https://atva-conference.org/2023/). Thanks and congrats to my coauthors! I am particularly excited about attending a conference at SMU. :)
 
 * <span style="color:grey">July 2023</span>\. PC member for [AAAI 2024](https://aaai.org/aaai-conference/).
 
@@ -71,4 +71,4 @@ I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp).
 
 * <span style="color:grey">June 2023</span>\. Visited TU Delft and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*. Thank you [Anna Lukina](https://annalukina.com/) for hosting me!
 
-* <span style="color:grey">June 2023</span>\. Visited Masaryk University and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*. Thank you [Petr Novotný](https://www.fi.muni.cz/~xnovot18/)) for hosting me!
+* <span style="color:grey">June 2023</span>\. Visited Masaryk University and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*. Thank you [Petr Novotný](https://www.fi.muni.cz/~xnovot18/) for hosting me!
