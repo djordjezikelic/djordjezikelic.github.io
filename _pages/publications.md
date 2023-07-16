@@ -24,27 +24,27 @@ pre {
 
 23. Reachability Poorman Discrete-Bidding Games <br/>
 To apper in the 26th European Conference on Artificial Intelligence. **ECAI 2023** <br/>
-Guy Avni, Tobias Meggendorfer, Suman Sadhukhan, Josef Tkadlec, Đorđe Žikelić<sup>+</sup><br/>
+Guy Avni, Tobias Meggendorfer, Suman Sadhukhan, Josef Tkadlec, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
 
 22. Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems <br/>
 To apper in the 21st International Symposium on Automated Technology for Verification and Analysis. **ATVA 2023** <br/>
-Matin Ansaripour, Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>+</sup><br/>
+Matin Ansaripour, Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
 
 21. MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives <br/>
 To appear in the 35th International Conference on Computer Aided Verification. **CAV 2023** <br/>
-S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić<sup>+</sup><br/>
+S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [preprint](https://arxiv.org/abs/2305.16796)
 
 20. A Learner-Verifier Framework for Neural Network Controllers and Certificates of Stochastic Systems <br/>
 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems. **TACAS 2023** <br/>
-Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1)
 
 19. On Lexicographic Proof Rules for Probabilistic Termination <br/>
 To appear in Formal Aspects of Computing. **FAC 2023** <br/>
-Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://dl.acm.org/doi/10.1145/3585391)
 
 18. Learning Control Policies for Stochastic Systems with Reach-avoid Guarantees <br/>
@@ -59,17 +59,17 @@ Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas A. Henzinger, 
 
 16. Bidding Graph Games with Partially-Observable Budgets <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
-Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>+</sup><br/>
+Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25679), preprint](https://arxiv.org/abs/2211.13626)
 
 15. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
-Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Roodabeh Safavi, Đorđe Žikelić<sup>+</sup><br/>
+Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Roodabeh Safavi, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://drops.dagstuhl.de/opus/volltexte/2022/17421/), [preprint](https://hal.archives-ouvertes.fr/hal-03808158/)
 
 14. Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs <br>
 34th International Conference on Computer Aided Verification. **CAV 2022** <br>
-Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4),
 [preprint](https://hal.archives-ouvertes.fr/hal-03675086/)
 
@@ -99,47 +99,47 @@ Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatt
 
 9. On Lexicographic Proof Rules for Probabilistic Termination <br/>
 24th International Symposium on Formal Methods. **FM 2021**<br/>
-Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33), [preprint](https://arxiv.org/abs/2108.02188)
 
 8. Proving Non-termination by Program Reversal <br/>
 43rd ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2021**<br/>
-Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://dl.acm.org/doi/10.1145/3453483.3454093), [preprint](https://arxiv.org/abs/2104.01189)
 
 7. Scalable Verification of Quantized Neural Networks <br/>
 35th AAAI Conference on Artificial Intelligence. **AAAI 2021**<br/>
-Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>+</sup><br/>
+Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16496), [preprint](https://arxiv.org/abs/2012.08185)
 
 6. Bidding Mechanisms in Graph Games <br/>
 Journal of Computer and System Sciences 119. **JCSS 2021**<br/>
-Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>+</sup><br/>
+Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022000021000234?via%3Dihub)
 
 5. Infinite-Duration All-Pay Bidding Games <br/>
 ACM-SIAM Symposium on Discrete Algorithms. **SODA 2021**<br/>
-Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>+</sup><br/>
+Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [preprint](https://arxiv.org/abs/2005.06636)
 
 4. Bidding Mechanisms in Graph Games <br/>
 44th International Symposium on Mathematical Foundations of Computer Science. **MFCS 2019**<br/>
-Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>+</sup><br/>[paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/),
+Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>&dagger;</sup><br/>[paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/),
 [preprint](https://arxiv.org/abs/1905.03835)
 
 3. Optimizing Expectation with Guarantees in POMDPs <br/>
 31st AAAI Conference on Artificial Intelligence. **AAAI 2017**<br/>
-Krishnendu Chatterjee, Petr Novotný,  Guillermo A. Perez, Jean-Francois Raskin, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Petr Novotný,  Guillermo A. Perez, Jean-Francois Raskin, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14354), [preprint](https://arxiv.org/abs/1611.08696)
 
 2. Stochastic invariants for probabilistic termination <br/>
 44th ACM SIGPLAN Symposium on Principles of Programming Languages. **POPL 2017**<br/>
-Krishnendu Chatterjee, Petr Novotný, Đorđe Žikelić<sup>+</sup><br/>
+Krishnendu Chatterjee, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://dl.acm.org/doi/10.1145/3009837.3009873), [preprint](https://arxiv.org/abs/1611.01063)
 
 1. Theorems about quadrilaterals and conics <br/>
 International Journal of Computer Mathematics 91 (7). **Int. J. Comp. Math. 2014**<br/>
-Đorđe Baralić, Branko Grbić, Đorđe Žikelić<sup>+</sup><br/>
+Đorđe Baralić, Branko Grbić, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://www.tandfonline.com/doi/abs/10.1080/00207160.2013.844338)
 
 # Workshop Papers
