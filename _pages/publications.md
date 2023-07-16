@@ -60,7 +60,7 @@ Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas A. Henzinger, 
 16. Bidding Graph Games with Partially-Observable Budgets <br/>
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25679), preprint](https://arxiv.org/abs/2211.13626)
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [preprint](https://arxiv.org/abs/2211.13626)
 
 15. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
