@@ -11,7 +11,7 @@ redirect_from:
 <style type="text/css">
 
 body, td {
-   font-size: 14px;
+   font-size: 16px;
 }
 code.r{
   font-size: 20px;
