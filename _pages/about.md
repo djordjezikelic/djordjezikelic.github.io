@@ -55,11 +55,10 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 # News
 
-* <span style="color:grey">July 2023</span>\. I will attend [CAV 2023](http://www.i-cav.org/2023/) in Paris for the whole duration of the conference and will present the following works:
-- Presenting [MDPs as Distribution Transformers: Affine
-Invariant Synthesis for Safety Objectives](https://arxiv.org/pdf/2305.16796.pdf) at CAV.
-- Keynote *From Probabilistic Program Analysis to Learning-based Stochastic Control  with Martingales* at the VeriProP workshop.
-Following CAV, I will also attend [Highlights](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
+* <span style="color:grey">July 2023</span>\. I will attend [CAV 2023](http://www.i-cav.org/2023/) in Paris for the whole duration of the conference, and will present the following:
+    - Our work [MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives](https://arxiv.org/pdf/2305.16796.pdf) at CAV.
+    - Keynote talk *From Probabilistic Program Analysis to Learning-based Stochastic Control  with Martingales* at the VeriProP workshop.
+Following CAV, I will also attend [Highlights](https://highlights-conference.org/2023/cfp) in Kassel. Reach out if you will be around and would like to connect!
 
 * <span style="color:grey">July 2023</span>\. Our work *Reachability Poorman Discrete-Bidding Games* has been accepted to [ECAI 2023](https://ecai2023.eu/). Thanks and congrats to my coauthors!
 
