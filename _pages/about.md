@@ -27,7 +27,7 @@ I am a final year PhD student at the Institute of Science and Technology Austria
 
 # Research Interests
 
-My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** research towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs, systems with learned components as well as for safe learning. I work in the broad areas of probabilistic verification, program verification and AI safety.
+My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs, systems with learned components as well as for safe learning. I work in the broad areas of probabilistic verification, program verification and AI safety.
 
 The central theme of my work is the development of formal methods and automated reasoning techniques for **stochastic systems**. Stochastic systems provide a framework for modeling and quantifying uncertainty that may arise due to randomization, interaction with unknown environments or inference from data. My goal is to contribute to laying foundations of automated formal reasoning about stochastic systems, towards enhancing safety and trustworthiness of software and AI systems in the presence of uncertainty. More concretely, my current research focuses on probabilistic program analysis, formal verification of Markov models, stochastic control and safe reinforcement learning.
 
