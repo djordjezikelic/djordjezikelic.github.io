@@ -21,13 +21,17 @@ pre {
 }
 </style>
 
-I am a final year PhD student at the Institute of Science and Technology Austria (ISTA) where I am supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Prior to joining ISTA, I obtained my undergraduate and master degrees in mathematics at the University of Cambridge, where I was a student at the lovely Gonville & Caius College. You can find my CV  [here](CV_Zikelic.pdf).
+I am an (incoming) Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I will join SMU in January 2024.
 
-**I will be joining the School of Computing and Information Systems (SCIS) at Singapore Management University as an assistant professor in January 2024.**
+Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I am fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Before that, I obtained undergraduate and master degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
 
 # Research Interests
 
-My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs, systems with learned components as well as for safe learning. I work in the broad areas of probabilistic verification, program verification and AI safety.
+My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs and for ensuring safety and trustworthiness of AI systems. My work lies in the interplay of the broad areas of formal methods, trustworthy AI and static program analysis.
+
+The central theme of my work is the development of formal methods and automated reasoning techniques for **stochastic systems**. Stochastic systems provide a framework for modeling and quantifying uncertainty that may arise due to randomization, interaction with unknown environments or inference from data. My goal is to contribute to laying foundations of automated formal reasoning about stochastic systems, towards enhancing safety and trustworthiness of software and AI systems in the presence of uncertainty. More concretely, my current research focuses on formal verification and control of Markov models, learning and verification of neural controllers, safe reinforcement learning and probabilistic program analysis.
+
+<!-- My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs, systems with learned components as well as for safe learning. I work in the broad areas of probabilistic verification, program verification and AI safety.
 
 The central theme of my work is the development of formal methods and automated reasoning techniques for **stochastic systems**. Stochastic systems provide a framework for modeling and quantifying uncertainty that may arise due to randomization, interaction with unknown environments or inference from data. My goal is to contribute to laying foundations of automated formal reasoning about stochastic systems, towards enhancing safety and trustworthiness of software and AI systems in the presence of uncertainty. More concretely, my current research focuses on probabilistic program analysis, formal verification of Markov models, stochastic control and safe reinforcement learning.
 
@@ -39,7 +43,7 @@ My current research interests include:
 - Probabilistic verification [CAV 2023](https://arxiv.org/abs/2305.16796), [FSTTCS 2022](https://drops.dagstuhl.de/opus/volltexte/2022/17421/)
 - Static program analysis [PLDI 2022](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI 2021](https://dl.acm.org/doi/10.1145/3453483.3454093)
 - Neural network verification [AAAI 2023b](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16496)
-- Bidding games on graphs [AAAI 2023c](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA 2021](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10955/)
+- Bidding games on graphs [AAAI 2023c](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA 2021](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10955/) -->
 
 <!--My research focuses on developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** research in order to design mathematically rigorous yet fully automated and scalable methods for providing formal guarantees about programs, systems with learned components as well as for safe learning. More concretely, my research interests include:
 - Formal Verification
@@ -55,7 +59,21 @@ I am especially interested in formal verification and certified control of **sto
 
 I also study bidding games on graphs. These are a class of games that model ongoing and stateful auctions, in which players have budgets and bid for the right to move. In our work, we studied such games with several classical bidding mechanisms ([AAAI 2023c](https://arxiv.org/abs/2211.13626), [SODA 2021](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10955/)). -->
 
+# Openings
+
+**I have multiple openings for PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please drop me an email with your CV if you are interested. Applicants with a degree in computer science, mathematics or a related field are all welcome.**
+
+Doctoral positions at SMU are **fully funded** for four years, with a possible extension to the fifth year. The exceptionally qualified students will also be offered the SMU Presidential Doctoral Fellowships in Computing, which comes with a highly competitive stipend. See the [Scholarship page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details.
+
+Singapore is an extremely vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU provides an excellent environment for pursuing research in formal methods, AI and software engineering. It is ranked No. 39 globally (No. 16 in Asia) in the AI category, No. 16 globally (No. 6 in Asia) in the Software Engineering category, and No. 87 globally (No. 15 in Asia) in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us).  
+
 # News
+
+* <span style="color:grey">October 2023</span>\. I will attend [ATVA 2023](https://atva-conference.org/2023/) in Singapore for the whole duration of the conference, and will present our work [Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17).
+
+* <span style="color:grey">September 2023</span>\. Our work [Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees](https://openreview.net/forum?id=Yx8Sw2H5Q7) has been accepted at [NeurIPS 2023](https://nips.cc/). Thanks and congrats to my coauthors!
+
+* <span style="color:grey">July 2023</span>\. Visited École Normale Supérieure in Paris and talked about *A Learner-verifier Framework for Learning and Certifying Neural Controllers in Stochastic Systems*.
 
 * <span style="color:grey">July 2023</span>\. I will attend [CAV 2023](http://www.i-cav.org/2023/) in Paris for the whole duration of the conference, and will present the following:
     - Our work [MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives](https://arxiv.org/pdf/2305.16796.pdf) at CAV.
@@ -66,12 +84,8 @@ with Martingales* at the [VeriProP](https://veriprop.github.io/2023/) workshop.
 
 * <span style="color:grey">July 2023</span>\. Our work *Reachability Poorman Discrete-Bidding Games* has been accepted at [ECAI 2023](https://ecai2023.eu/). Thanks and congrats to my coauthors!
 
-* <span style="color:grey">July 2023</span>\. Our work *Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems* has been accepted at [ATVA 2023](https://atva-conference.org/2023/). Thanks and congrats to my coauthors! I am particularly excited about attending a conference at SMU. :)
-
 * <span style="color:grey">July 2023</span>\. PC member for [AAAI 2024](https://aaai.org/aaai-conference/).
 
 * <span style="color:grey">June 2023</span>\. Talked about *A Learner-verifier Framework for Learning and Certifying Neural Controllers in Stochastic Systems* at Nissan Research (virtual).
 
-* <span style="color:grey">June 2023</span>\. Visited TU Delft and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*. Thank you [Anna Lukina](https://annalukina.com/) for hosting me!
-
-* <span style="color:grey">June 2023</span>\. Visited Masaryk University and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*. Thank you [Petr Novotný](https://www.fi.muni.cz/~xnovot18/) for hosting me!
+* <span style="color:grey">June 2023</span>\. Visited TU Delft and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*.

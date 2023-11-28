@@ -22,20 +22,27 @@ pre {
 
 # Conference and Journal Papers
 
-23. Reachability Poorman Discrete-Bidding Games <br/>
-To apper in the 26th European Conference on Artificial Intelligence. **ECAI 2023** <br/>
-Guy Avni, Tobias Meggendorfer, Suman Sadhukhan, Josef Tkadlec, Đorđe Žikelić<sup>&dagger;</sup><br/>
+# <span style="color:grey">2023</span>.
+
+24. Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees <br/>
+To appear in the 37th Conference on Neural Information Processing Systems. **NeurIPS 2023**<br/>
+Đorđe Žikelić<sup>∗</sup>, Mathias Lechner<sup>∗</sup>, Abhinav Verma, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
+
+23. Reachability Poorman Discrete-Bidding Games <br/>
+26th European Conference on Artificial Intelligence. **ECAI 2023** <br/>
+Guy Avni, Tobias Meggendorfer, Suman Sadhukhan, Josef Tkadlec, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[paper](https://ebooks.iospress.nl/volumearticle/64196), [preprint](https://arxiv.org/abs/2307.15218)
 
 22. Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems <br/>
-To apper in the 21st International Symposium on Automated Technology for Verification and Analysis. **ATVA 2023** <br/>
+21st International Symposium on Automated Technology for Verification and Analysis. **ATVA 2023** <br/>
 Matin Ansaripour, Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17), [preprint](https://arxiv.org/abs/2210.05304)
 
 21. MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives <br/>
-To appear in the 35th International Conference on Computer Aided Verification. **CAV 2023** <br/>
+35th International Conference on Computer Aided Verification. **CAV 2023** <br/>
 S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2305.16796)
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5), [preprint](https://arxiv.org/abs/2305.16796)
 
 20. A Learner-Verifier Framework for Neural Network Controllers and Certificates of Stochastic Systems <br/>
 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems. **TACAS 2023** <br/>
@@ -61,6 +68,8 @@ Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas A. Henzinger, 
 37th AAAI Conference on Artificial Intelligence. **AAAI 2023**<br/>
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [preprint](https://arxiv.org/abs/2211.13626)
+
+# <span style="color:grey">2022</span>.
 
 15. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
@@ -90,6 +99,8 @@ Krishnendu Chatterjee, Jakub Svoboda, Đorđe Žikelić, Andreas Pavlogiannis an
 Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20695),
 [preprint](https://arxiv.org/abs/2112.09495)
+
+# <span style="color:grey">2021</span>.
 
 10. Infinite Time Horizon Safety of Bayesian Neural Networks <br/>
 35th Conference on Neural Information Processing Systems. **NeurIPS 2021**<br/>
@@ -122,10 +133,14 @@ ACM-SIAM Symposium on Discrete Algorithms. **SODA 2021**<br/>
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [preprint](https://arxiv.org/abs/2005.06636)
 
+# <span style="color:grey">2019</span>.
+
 4. Bidding Mechanisms in Graph Games <br/>
 44th International Symposium on Mathematical Foundations of Computer Science. **MFCS 2019**<br/>
 Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>&dagger;</sup><br/>[paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/),
 [preprint](https://arxiv.org/abs/1905.03835)
+
+# <span style="color:grey">2017</span>.
 
 3. Optimizing Expectation with Guarantees in POMDPs <br/>
 31st AAAI Conference on Artificial Intelligence. **AAAI 2017**<br/>
@@ -137,12 +152,16 @@ Krishnendu Chatterjee, Petr Novotný,  Guillermo A. Perez, Jean-Francois Raskin,
 Krishnendu Chatterjee, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://dl.acm.org/doi/10.1145/3009837.3009873), [preprint](https://arxiv.org/abs/1611.01063)
 
+# <span style="color:grey">2014</span>.
+
 1. Theorems about quadrilaterals and conics <br/>
 International Journal of Computer Mathematics 91 (7). **Int. J. Comp. Math. 2014**<br/>
 Đorđe Baralić, Branko Grbić, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://www.tandfonline.com/doi/abs/10.1080/00207160.2013.844338)
 
 # Workshop Papers
+
+# <span style="color:grey">2022</span>.
 
 1. Learning Stabilizing Policies in Stochastic Control Systems <br>
 ICLR 2022 Workshop on Socially Responsible Machine Learning (SRML). **SRML@ICLR 2022**<br/>
