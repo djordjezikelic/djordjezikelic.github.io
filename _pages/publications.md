@@ -167,3 +167,10 @@ International Journal of Computer Mathematics 91 (7). **Int. J. Comp. Math. 2014
 ICLR 2022 Workshop on Socially Responsible Machine Learning (SRML). **SRML@ICLR 2022**<br/>
 Đorđe Žikelić<sup>∗</sup>, Mathias Lechner<sup>∗</sup>, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
 [preprint](https://arxiv.org/abs/2205.11991)
+
+# PhD Thesis
+
+Automated Verification and Control of Infinite State Stochastic Systems <br>
+Institute of Science and Technology Austria (ISTA). **2023**<br/>
+Đorđe Žikelić<br/>
+[thesis](https://research-explorer.ista.ac.at/record/14539)
