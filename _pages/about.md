@@ -63,7 +63,7 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 **I have multiple openings for PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please drop me an email with your CV if you are interested. Applicants with a degree in computer science, mathematics or related fields are all welcome.**
 
-Doctoral positions at SMU are **fully funded** for four years, with a possible extension to the fifth year. The exceptionally qualified students will also be offered the SMU Presidential Doctoral Fellowships in Computing, which comes with a highly competitive stipend. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details.
+Doctoral positions at SMU are **fully funded** for four years, with a possible extension to the fifth year. The exceptionally qualified students will also be offered the SMU Presidential Doctoral Fellowship in Computing, which comes with a highly competitive stipend. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details.
 
 Singapore is a vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU provides an excellent environment for pursuing research in formal methods, AI and/or software engineering. It is ranked No. 39 globally (No. 16 in Asia) in the AI category, No. 16 globally (No. 6 in Asia) in the Software Engineering category, and No. 87 globally (No. 15 in Asia) in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us).  
 

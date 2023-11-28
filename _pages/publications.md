@@ -22,7 +22,7 @@ pre {
 
 # Conference and Journal Papers
 
-# <span style="color:grey">2023</span>.
+# <span style="color:grey">2023</span>
 
 24. Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees <br/>
 To appear in the 37th Conference on Neural Information Processing Systems. **NeurIPS 2023**<br/>
@@ -69,7 +69,7 @@ Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas A. Henzinger, 
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [preprint](https://arxiv.org/abs/2211.13626)
 
-# <span style="color:grey">2022</span>.
+# <span style="color:grey">2022</span>
 
 15. Algorithms and Hardness Results for Computing Cores of Markov Chains <br/>
 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science. **FSTTCS 2022** <br/>
@@ -100,7 +100,7 @@ Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatt
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20695),
 [preprint](https://arxiv.org/abs/2112.09495)
 
-# <span style="color:grey">2021</span>.
+# <span style="color:grey">2021</span>
 
 10. Infinite Time Horizon Safety of Bayesian Neural Networks <br/>
 35th Conference on Neural Information Processing Systems. **NeurIPS 2021**<br/>
@@ -133,14 +133,14 @@ ACM-SIAM Symposium on Discrete Algorithms. **SODA 2021**<br/>
 Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [preprint](https://arxiv.org/abs/2005.06636)
 
-# <span style="color:grey">2019</span>.
+# <span style="color:grey">2019</span>
 
 4. Bidding Mechanisms in Graph Games <br/>
 44th International Symposium on Mathematical Foundations of Computer Science. **MFCS 2019**<br/>
 Guy Avni, Thomas A. Henzinger, Đorđe Žikelić<sup>&dagger;</sup><br/>[paper](https://drops.dagstuhl.de/opus/volltexte/2019/10955/),
 [preprint](https://arxiv.org/abs/1905.03835)
 
-# <span style="color:grey">2017</span>.
+# <span style="color:grey">2017</span>
 
 3. Optimizing Expectation with Guarantees in POMDPs <br/>
 31st AAAI Conference on Artificial Intelligence. **AAAI 2017**<br/>
@@ -152,7 +152,7 @@ Krishnendu Chatterjee, Petr Novotný,  Guillermo A. Perez, Jean-Francois Raskin,
 Krishnendu Chatterjee, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://dl.acm.org/doi/10.1145/3009837.3009873), [preprint](https://arxiv.org/abs/1611.01063)
 
-# <span style="color:grey">2014</span>.
+# <span style="color:grey">2014</span>
 
 1. Theorems about quadrilaterals and conics <br/>
 International Journal of Computer Mathematics 91 (7). **Int. J. Comp. Math. 2014**<br/>
@@ -161,7 +161,7 @@ International Journal of Computer Mathematics 91 (7). **Int. J. Comp. Math. 2014
 
 # Workshop Papers
 
-# <span style="color:grey">2022</span>.
+# <span style="color:grey">2022</span>
 
 1. Learning Stabilizing Policies in Stochastic Control Systems <br>
 ICLR 2022 Workshop on Socially Responsible Machine Learning (SRML). **SRML@ICLR 2022**<br/>
