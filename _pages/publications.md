@@ -50,7 +50,7 @@ Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Đorđe Žikelić<s
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1)
 
 19. On Lexicographic Proof Rules for Probabilistic Termination <br/>
-To appear in Formal Aspects of Computing. **FAC 2023** <br/>
+Formal Aspects of Computing. **FAC 2023** <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://dl.acm.org/doi/10.1145/3585391)
 
