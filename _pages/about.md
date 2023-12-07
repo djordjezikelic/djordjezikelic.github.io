@@ -72,7 +72,7 @@ I also study bidding games on graphs. These are a class of games that model ongo
 
 **I have multiple openings for PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please drop me an email with your CV if you are interested. Applicants with a degree in computer science, mathematics or related fields are all welcome.**
 
-Singapore is a vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU provides an excellent environment for pursuing research in formal methods, AI and/or software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. 
+Singapore is a vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier university and provides an excellent research environment with strong groups in formal methods, AI and software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. 
 
 <!--  Doctoral positions at SMU are **fully funded** for four years, with a possible extension to the fifth year. The exceptionally qualified students will also be offered the SMU Presidential Doctoral Fellowship in Computing, which comes with a highly competitive stipend. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details.
 
