@@ -80,6 +80,8 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 
 # News
 
+* <span style="color:grey">December 2023</span>\. Honoured to receive the **Outstanding Scientific Achievement** award at the Institute of Science and Technology Austria, together with Mathias Lechner, for our work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems! 
+
 * <span style="color:grey">October 2023</span>\. I will attend [ATVA 2023](https://atva-conference.org/2023/) in Singapore for the whole duration of the conference, and will present our work [Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17).
 
 * <span style="color:grey">September 2023</span>\. Our work [Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees](https://openreview.net/forum?id=Yx8Sw2H5Q7) has been accepted at [NeurIPS 2023](https://nips.cc/). Thanks and congrats to my coauthors!
@@ -92,8 +94,6 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 with Martingales* at the [VeriProP](https://veriprop.github.io/2023/) workshop.
 
     I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
-
-* <span style="color:grey">July 2023</span>\. Our work *Reachability Poorman Discrete-Bidding Games* has been accepted at [ECAI 2023](https://ecai2023.eu/). Thanks and congrats to my coauthors!
 
 * <span style="color:grey">July 2023</span>\. PC member for [AAAI 2024](https://aaai.org/aaai-conference/).
 
