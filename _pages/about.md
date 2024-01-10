@@ -21,7 +21,7 @@ pre {
 }
 </style>
 
-I am an (incoming) Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I will join SMU in January 2024.
+I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I started my position at SMU in January 2024.
 
 Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Before that, I obtained undergraduate and master degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
 
