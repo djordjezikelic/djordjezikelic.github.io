@@ -21,9 +21,9 @@ pre {
 }
 </style>
 
-I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I started my position at SMU in January 2024.
+I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I joined SMU in January 2024.
 
-Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). Before that, I obtained undergraduate and master degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
+Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems, I received the **Outstanding Scientific Achievement** at ISTA together with my colleague Mathias Lechner. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
 
 # Research Interests
 
@@ -36,49 +36,21 @@ The central theme of my work are formal verification, synthesis and certified le
 - Formal verification and certified learning of neural networks ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
 - Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS19](https://drops.dagstuhl.de/opus/volltexte/2019/10955/))
 
-<!-- My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs and for ensuring safety and trustworthiness of AI systems. My work lies in the interplay of formal methods, trustworthy AI and static program analysis.
-
-The central theme of my work is the development of formal methods and automated reasoning techniques for **stochastic systems**. Stochastic systems provide a framework for modeling and quantifying uncertainty that may arise due to randomization, interaction with unknown environments or inference from data. My goal is to contribute to laying foundations of automated formal reasoning about stochastic systems, towards enhancing safety and trustworthiness of software and AI systems in the presence of uncertainty. My current research focuses on formal verification and control of Markov models, learning and verification of neural controllers, safe reinforcement learning and probabilistic program analysis.  -->
-
-<!-- My research is concerned with developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** towards designing mathematically rigorous yet fully automated and scalable methods for formal analysis of programs, systems with learned components as well as for safe learning. I work in the broad areas of probabilistic verification, program verification and AI safety.
-
-The central theme of my work is the development of formal methods and automated reasoning techniques for **stochastic systems**. Stochastic systems provide a framework for modeling and quantifying uncertainty that may arise due to randomization, interaction with unknown environments or inference from data. My goal is to contribute to laying foundations of automated formal reasoning about stochastic systems, towards enhancing safety and trustworthiness of software and AI systems in the presence of uncertainty. More concretely, my current research focuses on probabilistic program analysis, formal verification of Markov models, stochastic control and safe reinforcement learning.
-
-I also work on static analysis of non-probabilistic programs and on formal verification of systems with neural network components. Automated methods for probabilistic program analysis and for learning-based stochastic control often draw insight from these areas, so I follow the developments and contribute to these fields. Finally, I am also interested in bidding games on graphs.
-
-My current research interests include:
-- Probabilistic program analysis [CAV 2022](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4), [FM 2021](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33), [POPL 2017](https://dl.acm.org/doi/10.1145/3009837.3009873)
-- Learning-based stochastic control [TACAS 2023](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI 2023a](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [SRML@ICLR 2022](https://arxiv.org/abs/2205.11991), [AAAI 2022](https://arxiv.org/abs/2112.09495), [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html)
-- Probabilistic verification [CAV 2023](https://arxiv.org/abs/2305.16796), [FSTTCS 2022](https://drops.dagstuhl.de/opus/volltexte/2022/17421/)
-- Static program analysis [PLDI 2022](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI 2021](https://dl.acm.org/doi/10.1145/3453483.3454093)
-- Neural network verification [AAAI 2023b](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16496)
-- Bidding games on graphs [AAAI 2023c](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA 2021](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10955/) -->
-
-<!--My research focuses on developing algorithms for formally verifying correctness of software. In particular, I combine ideas from **Formal Verification**, **Programming Languages** and **Machine Learning** research in order to design mathematically rigorous yet fully automated and scalable methods for providing formal guarantees about programs, systems with learned components as well as for safe learning. More concretely, my research interests include:
-- Formal Verification
-- Static Program Analysis
-- Neural Network Verification
-- Learning-based Control
-- Safe Reinforcement Learning
-- Game Theory
-
-# Research Highlights
-
-I am especially interested in formal verification and certified control of **stochastic systems** in which stochasticity is used to model and quantify uncertainty. I have worked on static analysis of probabilistic programs ([CAV 2022](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4), [FM 2021](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33), [POPL 2017](https://dl.acm.org/doi/10.1145/3009837.3009873)) and formal verification and safe policy learning for stochastic feedback loop systems ([AAAI 2023a](https://arxiv.org/abs/2210.05308), [SRML@ICLR 2022](https://arxiv.org/abs/2205.11991), [AAAI 2022](https://arxiv.org/abs/2112.09495), [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html)). However, my research is not restricted to stochastic systems and I have also worked on static analysis for non-probabilistic programs and properties such as termination or resource usage ([PLDI 2022](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI 2021](https://dl.acm.org/doi/10.1145/3453483.3454093)), as well as on verification of quantized neural networks ([AAAI 2023b](https://arxiv.org/abs/2211.16187), [AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16496)).
-
-I also study bidding games on graphs. These are a class of games that model ongoing and stateful auctions, in which players have budgets and bid for the right to move. In our work, we studied such games with several classical bidding mechanisms ([AAAI 2023c](https://arxiv.org/abs/2211.13626), [SODA 2021](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10955/)). -->
-
 # Openings
 
-**I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please drop me an email with your CV if you are interested. Applicants with a degree in computer science, mathematics or related fields are all welcome.**
+**I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. I also have openings for undergraduate students at SMU, as well as visiting undergraduate, master and PhD students from other institutions. Please drop me an email with your CV if you are interested. Applicants with a degree in computer science, mathematics or related fields are all welcome.**
 
-Singapore is a vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier university and provides an excellent research environment with strong groups in formal methods, AI and software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. 
+Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier university and provides an excellent research environment with strong groups in formal methods, AI and software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. 
 
 <!--  Doctoral positions at SMU are **fully funded** for four years, with a possible extension to the fifth year. The exceptionally qualified students will also be offered the SMU Presidential Doctoral Fellowship in Computing, which comes with a highly competitive stipend. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details.
 
 Singapore is a vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU provides an excellent environment for pursuing research in formal methods, AI and/or software engineering. It is ranked No. 39 globally (No. 16 in Asia) in the AI category, No. 16 globally (No. 6 in Asia) in the Software Engineering category, and No. 87 globally (No. 15 in Asia) in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us).  -->
 
 # News
+
+* <span style="color:grey">March 2024</span>\. Our work [Equivalence and Similarity Refutation for Probabilistic Programs](https://djordjezikelic.github.io/) has been accepted at [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-papers). Thanks and congrats to my coauthors!
+
+* <span style="color:grey">February 2024</span>\. Our work [Quantitative Bounds on Resource Usage of Probabilistic Programs](https://djordjezikelic.github.io/) has been accepted at [OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla). Thanks and congrats to my coauthors!
 
 * <span style="color:grey">December 2023</span>\. Honoured to receive the **Outstanding Scientific Achievement** award at the Institute of Science and Technology Austria, together with Mathias Lechner, for our work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems! 
 
@@ -94,9 +66,3 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 with Martingales* at the [VeriProP](https://veriprop.github.io/2023/) workshop.
 
     I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
-
-* <span style="color:grey">July 2023</span>\. PC member for [AAAI 2024](https://aaai.org/aaai-conference/).
-
-* <span style="color:grey">June 2023</span>\. Talked about *A Learner-verifier Framework for Learning and Certifying Neural Controllers in Stochastic Systems* at Nissan Research (virtual).
-
-* <span style="color:grey">June 2023</span>\. Visited TU Delft and talked about *Formal Verification and Learning-based Control of Infinite-state Stochastic Systems*.
