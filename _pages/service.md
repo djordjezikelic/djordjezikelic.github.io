@@ -4,8 +4,8 @@ title: "Service"
 excerpt: "Service"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /service/
+  - /service.html
 ---
 
 <style type="text/css">
