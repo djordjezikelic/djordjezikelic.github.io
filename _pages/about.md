@@ -23,7 +23,7 @@ pre {
 
 I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I joined SMU in January 2024.
 
-Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems, I received the **Outstanding Scientific Achievement** award at ISTA together with my colleague Mathias Lechner. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
+Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems, I received the 2023 **Outstanding Scientific Achievement** award at ISTA together with my colleague Mathias Lechner. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
 
 # Research Interests
 
