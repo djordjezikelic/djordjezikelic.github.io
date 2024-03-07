@@ -22,7 +22,7 @@ pre {
 
 # Conference and Journal Papers
 
-# <span style="color:grey">2023</span>
+# <span style="color:grey">2024</span>
 
 26. Equivalence and Similarity Refutation for Probabilistic Programs <br/>
 46th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2024**<br/>
