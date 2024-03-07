@@ -18,6 +18,4 @@ pre {
 }
 </style>
 
-# Teaching at SMU
-
 - 2023/2024 Term 2: [CS423 - Heuristic Search and Optimisation](https://computing.smu.edu.sg/bsc-computer-science/curriculum#heuristic_search_and_optimization_CS2019)
