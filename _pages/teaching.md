@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Teaching"
-excerpt: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 <style type="text/css">

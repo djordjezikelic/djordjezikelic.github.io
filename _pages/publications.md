@@ -24,10 +24,22 @@ pre {
 
 # <span style="color:grey">2023</span>
 
-24. Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees <br/>
-To appear in the 37th Conference on Neural Information Processing Systems. **NeurIPS 2023**<br/>
-Đorđe Žikelić<sup>∗</sup>, Mathias Lechner<sup>∗</sup>, Abhinav Verma, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
+26. Equivalence and Similarity Refutation for Probabilistic Programs <br/>
+46th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2024**<br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
+
+25. Quantitative Bounds on Resource Usage of Probabilistic Programs <br/>
+To appear in the ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. **OOPSLA 2024** <br>
+Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
+# <span style="color:grey">2023</span>
+
+24. Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees <br/>
+37th Conference on Neural Information Processing Systems. **NeurIPS 2023**<br/>
+Đorđe Žikelić<sup>∗</sup>, Mathias Lechner<sup>∗</sup>, Abhinav Verma, Krishnendu Chatterjee, Thomas A. Henzinger<br/>
+[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/95827e011b9e899f189a01fe2f4ef316-Abstract-Conference.html), [preprint](https://arxiv.org/abs/2312.01456)
 
 23. Reachability Poorman Discrete-Bidding Games <br/>
 26th European Conference on Artificial Intelligence. **ECAI 2023** <br/>
@@ -76,7 +88,7 @@ Guy Avni, Ismaël Jecker, Đorđe Žikelić<sup>&dagger;</sup><br/>
 Ali Ahmadi, Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Roodabeh Safavi, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://drops.dagstuhl.de/opus/volltexte/2022/17421/), [preprint](https://hal.archives-ouvertes.fr/hal-03808158/)
 
-14. Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs <br>
+14. Sound and Complete Certificates for Quantitative Termination Analysis of Probabilistic Programs <br/>
 34th International Conference on Computer Aided Verification. **CAV 2022** <br>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4),
