@@ -24,15 +24,30 @@ pre {
 
 # <span style="color:grey">2024</span>
 
+29. Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains <br/>
+43rd ACM Symposium on Principles of Distributed Computing. **PODC 2024**<br/>
+Krishnendu Chatterjee, Amirali Ebrahim-Zadeh, Mehrdad Karrabi, Krzysztof Pietrzak, Michelle Yeo, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
+28. Certified Policy Verification and Synthesis for MDPs under Distributional Reach-Avoidance Properties <br/>
+33rd International Joint Conference on Artificial Intelligence. **IJCAI 2024**<br/>
+S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
+27. Solving Long-run Average Reward Robust MDPs via Stochastic Games <br/>
+33rd International Joint Conference on Artificial Intelligence. **IJCAI 2024**<br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
 26. Equivalence and Similarity Refutation for Probabilistic Programs <br/>
 46th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2024**<br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2404.03430)
 
 25. Quantitative Bounds on Resource Usage of Probabilistic Programs <br/>
-To appear in the ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. **OOPSLA 2024** <br>
+ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. **OOPSLA 2024** <br>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://hal.science/hal-04491689/document)
 
 # <span style="color:grey">2023</span>
 
