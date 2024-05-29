@@ -53,8 +53,8 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 * <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
 
 * <span style="color:grey">April 2024</span>\. Two papers accepted at [IJCAI 2024](https://ijcai24.org/):
-- [Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties](https://arxiv.org/abs/2405.04015)
-- [Solving Long-run Average Reward Robust MDPs via Stochastic Games](https://arxiv.org/abs/2312.13912)
+	- [Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties](https://arxiv.org/abs/2405.04015)
+	- [Solving Long-run Average Reward Robust MDPs via Stochastic Games](https://arxiv.org/abs/2312.13912)
 
 * <span style="color:grey">March 2024</span>\. [Equivalence and Similarity Refutation for Probabilistic Programs](https://arxiv.org/abs/2404.03430) accepted at [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-papers).
 
