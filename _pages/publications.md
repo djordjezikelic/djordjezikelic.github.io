@@ -27,17 +27,17 @@ pre {
 29. Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains <br/>
 43rd ACM Symposium on Principles of Distributed Computing. **PODC 2024**<br/>
 Krishnendu Chatterjee, Amirali Ebrahim-Zadeh, Mehrdad Karrabi, Krzysztof Pietrzak, Michelle Yeo, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2405.04420)
 
 28. Certified Policy Verification and Synthesis for MDPs under Distributional Reach-Avoidance Properties <br/>
 33rd International Joint Conference on Artificial Intelligence. **IJCAI 2024**<br/>
 S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2405.04015)
 
 27. Solving Long-run Average Reward Robust MDPs via Stochastic Games <br/>
 33rd International Joint Conference on Artificial Intelligence. **IJCAI 2024**<br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2312.13912)
 
 26. Equivalence and Similarity Refutation for Probabilistic Programs <br/>
 46th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2024**<br/>
@@ -47,7 +47,7 @@ Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikeli
 25. Quantitative Bounds on Resource Usage of Probabilistic Programs <br/>
 ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. **OOPSLA 2024** <br>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://hal.science/hal-04491689/document)
+[paper](https://dl.acm.org/doi/abs/10.1145/3649824) [preprint](https://hal.science/hal-04491689/document)
 
 # <span style="color:grey">2023</span>
 

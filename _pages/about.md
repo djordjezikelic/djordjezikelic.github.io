@@ -48,21 +48,16 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 
 # News
 
-* <span style="color:grey">March 2024</span>\. Our work [Equivalence and Similarity Refutation for Probabilistic Programs](https://djordjezikelic.github.io/) has been accepted at [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-papers). Thanks and congrats to my coauthors!
+* <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) at IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
-* <span style="color:grey">February 2024</span>\. Our work [Quantitative Bounds on Resource Usage of Probabilistic Programs](https://djordjezikelic.github.io/) has been accepted at [OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla). Thanks and congrats to my coauthors!
+* <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
+
+* <span style="color:grey">April 2024</span>\. Two papers accepted at [IJCAI 2024](https://ijcai24.org/):
+- [Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties](https://arxiv.org/abs/2405.04015)
+- [Solving Long-run Average Reward Robust MDPs via Stochastic Games](https://arxiv.org/abs/2312.13912)
+
+* <span style="color:grey">March 2024</span>\. [Equivalence and Similarity Refutation for Probabilistic Programs](https://arxiv.org/abs/2404.03430) accepted at [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-papers).
+
+* <span style="color:grey">February 2024</span>\. [Quantitative Bounds on Resource Usage of Probabilistic Programs](https://dl.acm.org/doi/abs/10.1145/3649824) accepted at [OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla).
 
 * <span style="color:grey">December 2023</span>\. Honoured to receive the **Outstanding Scientific Achievement** award at the Institute of Science and Technology Austria, together with Mathias Lechner, for our work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems! 
-
-* <span style="color:grey">October 2023</span>\. I will attend [ATVA 2023](https://atva-conference.org/2023/) in Singapore for the whole duration of the conference, and will present our work [Learning Provably Stabilizing Neural Controllers for Discrete-Time Stochastic Systems](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17).
-
-* <span style="color:grey">September 2023</span>\. Our work [Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees](https://openreview.net/forum?id=Yx8Sw2H5Q7) has been accepted at [NeurIPS 2023](https://nips.cc/). Thanks and congrats to my coauthors!
-
-* <span style="color:grey">July 2023</span>\. Visited École Normale Supérieure in Paris and talked about *A Learner-verifier Framework for Learning and Certifying Neural Controllers in Stochastic Systems*.
-
-* <span style="color:grey">July 2023</span>\. I will attend [CAV 2023](http://www.i-cav.org/2023/) in Paris for the whole duration of the conference, and will present the following:
-    - Our work [MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives](https://arxiv.org/pdf/2305.16796.pdf) at CAV.
-    - Keynote talk *From Probabilistic Program Analysis to Learning-based Stochastic Control 
-with Martingales* at the [VeriProP](https://veriprop.github.io/2023/) workshop.
-
-    I will also be at [Highlights 2023](https://highlights-conference.org/2023/cfp). Reach out if you will be around and would like to connect!
