@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
@@ -17,7 +17,5 @@ pre {
   font-size: 20px
 }
 </style>
-
-# CV
 
 You can find my CV [here](CV_Zikelic.pdf).
