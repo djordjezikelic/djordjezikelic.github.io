@@ -34,6 +34,8 @@ My research is concerned with helping programmers ensure that software and intel
 - Formal methods for safe AI ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
 - Broader perspective and applications of probabilistic verification: Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38)); Blockchain protocols ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))
 
+See also my [research statement](https://computing.smu.edu.sg/faculty/profile/7726/djordje-zikelic) for a more detailed overview of my work (last updated in December 2023).
+
 # Openings
 
 **I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. I also have openings for undergraduate students at SMU, as well as visiting undergraduate, master and PhD students from other institutions. Please drop me an email with your CV if you are interested. Applicants with a degree in computer science, mathematics or related fields are all welcome.**
