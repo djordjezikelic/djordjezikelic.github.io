@@ -21,16 +21,12 @@ pre {
 }
 </style>
 
-I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/).
-
-Previously, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis award for 2024 and the Outstanding Scientific Achievement award for 2023 at ISTA (the latter together with my collaborator Mathias Lechner). Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV [here](CV_Zikelic.pdf).
+I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/), [Singapore Management University](https://www.smu.edu.sg/). Previously, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis award for 2024 and the Outstanding Scientific Achievement award for 2023 at ISTA (the latter together with my collaborator Mathias Lechner). Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV [here](CV_Zikelic.pdf).
 
 # Research Interests
 
-My research is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. It lies at the intersection of **Formal Methods**, **Artificial Intelligence**, **Machine Learning** and **Programming Languages** research.
-
-The long term goal of my research is to advance the theory and automation of formal reasoning about software and intelligent systems in the presence of **uncertainty**. Uncertainty may arise due to a plethora of reasons, including interaction with unknown environments, inference from data, randomization, interleaving of processes or multi-agent systems. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct software and intelligent systems in practice. My current research interests (with references to some recent work) include:
-- Program analysis of probabilistic ([PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4)) and non-deterministic ([FM24](https://arxiv.org/abs/2403.05386), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093)) programs
+My research is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. It lies at the intersection of **Formal Methods**, **Artificial Intelligence**, **Machine Learning** and **Programming Languages** research. The long term goal of my research is to advance the theory and automation of formal reasoning about software and intelligent systems in the presence of **uncertainty**. Uncertainty may arise due to a plethora of reasons, including interaction with unknown environments, inference from data, randomization, interleaving of processes or multi-agent systems. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct software and intelligent systems in practice. My current research interests (with references to some recent work) include:
+- Probabilistic ([PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4)) and non-deterministic ([FM24](https://arxiv.org/abs/2403.05386), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093)) program analysis
 - Safe learning for (stochastic) control ([NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
 - Formal methods for finite-state Markov models ([IJCAI24a](https://arxiv.org/abs/2405.04015), [IJCAI24b](https://arxiv.org/abs/2312.13912), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5))
 - Formal methods for safe AI ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
@@ -50,9 +46,9 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 
 # News
 
-* <span style="color:grey">June 2024</span>\. [Sound and complete witnesses for template-based verification of LTL properties on polynomial programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
+* <span style="color:grey">June 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
 
-* <span style="color:grey">May 2024</span>\. Visited NUS and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+* <span style="color:grey">May 2024</span>\. Visited National University of Singapore and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
 * <span style="color:grey">May 2024</span>\. Visited IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
