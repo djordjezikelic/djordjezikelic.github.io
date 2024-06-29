@@ -21,20 +21,22 @@ pre {
 }
 </style>
 
-I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I joined SMU in January 2024.
+I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/).
 
-Prior to joining SMU, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems, I received the 2023 **Outstanding Scientific Achievement** award at ISTA together with my colleague Mathias Lechner. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV  [here](CV_Zikelic.pdf).
+Previously, I obtained my PhD in computer science in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis award for 2024 and the Outstanding Scientific Achievement award for 2023 at ISTA (the latter together with my collaborator Mathias Lechner). Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/). You can find my CV [here](CV_Zikelic.pdf).
 
 # Research Interests
 
-My research is concerned with the development of formal verification, synthesis and certified learning techniques towards making software and intelligent systems more safe, robust and trustworthy. To do so, I combine ideas and tackle a range of problems from **Formal Methods**, **Artificial Intelligence**, **Machine Learning** and **Programming Languages** research. 
+My research is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. It lies at the intersection of **Formal Methods**, **Artificial Intelligence**, **Machine Learning** and **Programming Languages** research.
 
-The central theme of my work are formal verification, synthesis and certified learning techniques for software and intelligent systems in the presence of **uncertainty**. Uncertainty may arise due to a plethora of reasons, including interaction with unknown environments, inference from data, randomization, interleaving of processes or multi-agent systems. My goal is to design methods that take uncertainty into account and allow us to build safe, robust and trustworthy software and intelligent systems even in the presence of uncertainty. My current research interests include:
-- Learning-based control and safe reinforcement learning ([NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [ATVA23](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
-- Program analysis of probabilistic ([CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4), [FM21](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33), [POPL17](https://dl.acm.org/doi/10.1145/3009837.3009873)) and non-deterministic ([PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093)) programs
-- Formal verification and control of Markov models ([CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5), [FSTTCS22](https://drops.dagstuhl.de/opus/volltexte/2022/17421/))
-- Formal verification and certified learning of neural networks ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
-- Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38), [MFCS19](https://drops.dagstuhl.de/opus/volltexte/2019/10955/))
+The long term goal of my research is to advance the theory and automation of formal reasoning about software and intelligent systems in the presence of **uncertainty**. Uncertainty may arise due to a plethora of reasons, including interaction with unknown environments, inference from data, randomization, interleaving of processes or multi-agent systems. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct software and intelligent systems in practice. My current research interests (with references to some recent work) include:
+- Program analysis of probabilistic ([PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4)) and non-deterministic ([FM24](https://arxiv.org/abs/2403.05386), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093)) programs
+- Safe learning for (stochastic) control ([NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
+- Formal methods for finite-state Markov models ([IJCAI24a](https://arxiv.org/abs/2405.04015), [IJCAI24b](https://arxiv.org/abs/2312.13912), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5))
+- Formal methods for safe AI ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
+- Broader perspective and applications of probabilistic verification: Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38)); Blockchain protocols ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))
+
+Check out my [research statement](https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2024-01/dzikelic-Research\%20Sttm.pdf) for more details (last updated in November 2023).
 
 # Openings
 
@@ -48,7 +50,11 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 
 # News
 
-* <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) at IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+* <span style="color:grey">June 2024</span>\. [Sound and complete witnesses for template-based verification of LTL properties on polynomial programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
+
+* <span style="color:grey">May 2024</span>\. Visited NUS and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+
+* <span style="color:grey">May 2024</span>\. Visited IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
 * <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
 
@@ -57,7 +63,3 @@ Singapore is a vibrant and cosmopolitan place with a large expat population and 
 	- [Solving Long-run Average Reward Robust MDPs via Stochastic Games](https://arxiv.org/abs/2312.13912)
 
 * <span style="color:grey">March 2024</span>\. [Equivalence and Similarity Refutation for Probabilistic Programs](https://arxiv.org/abs/2404.03430) accepted at [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-papers).
-
-* <span style="color:grey">February 2024</span>\. [Quantitative Bounds on Resource Usage of Probabilistic Programs](https://dl.acm.org/doi/abs/10.1145/3649824) accepted at [OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla).
-
-* <span style="color:grey">December 2023</span>\. Honoured to receive the **Outstanding Scientific Achievement** award at the Institute of Science and Technology Austria, together with Mathias Lechner, for our work on developing a framework for learning and verifying neural controllers in stochastic dynamical systems! 
