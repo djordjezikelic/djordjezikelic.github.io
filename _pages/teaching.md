@@ -18,9 +18,9 @@ pre {
 }
 </style>
 
-- [CS423: Heuristic Search and Optimisation](https://computing.smu.edu.sg/bsc-computer-science/curriculum#heuristic_search_and_optimization_CS2023) (Spring 2023)
-    - Exact methods (shortest path algorithms, routing algorithms)
-    - Heuristic methods (A* search, other heuristics)
+- [CS423: Heuristic Search and Optimisation](https://computing.smu.edu.sg/bsc-computer-science/curriculum#heuristic_search_and_optimization_CS2023) (Spring 2024)
+    - Exact search (shortest path algorithms, routing algorithms)
+    - Heuristic search (A* search, other heuristics)
     - Linear programming
     - Integer programming
     - Convex programming and gradient descent
