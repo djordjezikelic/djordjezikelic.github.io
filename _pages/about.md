@@ -27,7 +27,7 @@ You can reach me at dzikelic@smu.edu.sg.
 
 # Openings
 
-**I have multiple openings for motivated PhD students, as well as visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program analysis. Please see this [page]() if interested.**
+**I have multiple openings for motivated PhD students, as well as visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program analysis. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
 <!-- **I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please apply through our [PhD program](https://computing.smu.edu.sg/phd/online-application) and list me as a potential advisor. You are also welcome to reach out to me directly before applying. Applicants with a degree in computer science, mathematics or related fields are all welcome. I also have openings for research assistants (students at SMU), internships and visiting research students (undergraduate, master and PhD students from other institutions). If you are interested in any of the above positions, feel free to drop me an email with your CV, transcripts and a few sentences about what aspects of my work interest you.**
 
@@ -48,15 +48,15 @@ See also my [research statement](https://computing.smu.edu.sg/faculty/profile/77
 
 # News
 
-* <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and talked about *Neural Controller Synthesis and Verification with Guarantees*.
+* <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and gave a talk about *Neural Controller Synthesis and Verification with Guarantees*.
 
-* <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at the East China Normal University in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
+* <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at ECNU in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
 
 * <span style="color:grey">June 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
 
-* <span style="color:grey">May 2024</span>\. Visited [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at National University of Singapore and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+* <span style="color:grey">May 2024</span>\. Visited [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at National University of Singapore and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
-* <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+* <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) at IIT Bombay and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
 * <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
 
