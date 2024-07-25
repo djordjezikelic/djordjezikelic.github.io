@@ -25,6 +25,16 @@ I am an Assistant Professor of Computer Science at the [School of Computing and 
 
 You can reach me at dzikelic@smu.edu.sg.
 
+# Openings
+
+**I have multiple openings for motivated PhD students, as well as visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program analysis. Please see this [page]() if interested.**
+
+<!-- **I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please apply through our [PhD program](https://computing.smu.edu.sg/phd/online-application) and list me as a potential advisor. You are also welcome to reach out to me directly before applying. Applicants with a degree in computer science, mathematics or related fields are all welcome. I also have openings for research assistants (students at SMU), internships and visiting research students (undergraduate, master and PhD students from other institutions). If you are interested in any of the above positions, feel free to drop me an email with your CV, transcripts and a few sentences about what aspects of my work interest you.**
+
+Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier university and provides an excellent research environment with strong groups in formal methods, AI and software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. -->
+
+<!--  It is ranked No. 39 globally (No. 16 in Asia) in the AI category, No. 16 globally (No. 6 in Asia) in the Software Engineering category, and No. 87 globally (No. 15 in Asia) in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us).  -->
+
 # Research Interests
 
 My research is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. It lies at the intersection of **Formal Methods**, **Artificial Intelligence** and **Programming Languages** research. The long term goal of my research is to advance the theory and automation of formal reasoning about software and intelligent systems in the presence of **uncertainty**. Uncertainty may arise due to a plethora of reasons, including interaction with unknown environments, inference from data, randomization, interleaving of processes or multi-agent systems. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct software and intelligent systems in practice. My current research interests (with references to some recent work) include:
@@ -36,23 +46,17 @@ My research is concerned with helping programmers ensure that software and intel
 
 See also my [research statement](https://computing.smu.edu.sg/faculty/profile/7726/djordje-zikelic) for a more detailed overview of my work (last updated in December 2023).
 
-# Openings
-
-**I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please apply through our [PhD program](https://computing.smu.edu.sg/phd/online-application) and list me as a potential advisor. Applicants with a degree in computer science, mathematics or related fields are all welcome. I also have openings for research assistants (students at SMU), internships and visiting research students (undergraduate, master and PhD students from other institutions). If you are interested in any of the above positions, feel free to drop me an email with your CV, transcripts and a few sentences about what aspects of my work interest you.**
-
-Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier university and provides an excellent research environment with strong groups in formal methods, AI and software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. 
-
-<!--  Doctoral positions at SMU are **fully funded** for four years, with a possible extension to the fifth year. The exceptionally qualified students will also be offered the SMU Presidential Doctoral Fellowship in Computing, which comes with a highly competitive stipend. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details.
-
-Singapore is a vibrant and cosmopolitan place with a large expat population and a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU provides an excellent environment for pursuing research in formal methods, AI and/or software engineering. It is ranked No. 39 globally (No. 16 in Asia) in the AI category, No. 16 globally (No. 6 in Asia) in the Software Engineering category, and No. 87 globally (No. 15 in Asia) in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us).  -->
-
 # News
+
+* <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and talked about *Neural Controller Synthesis and Verification with Guarantees*.
+
+* <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at the East China Normal University in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
 
 * <span style="color:grey">June 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
 
-* <span style="color:grey">May 2024</span>\. Visited National University of Singapore and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+* <span style="color:grey">May 2024</span>\. Visited [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at National University of Singapore and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
-* <span style="color:grey">May 2024</span>\. Visited IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+* <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) IIT Bombay and talked about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
 
 * <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
 
