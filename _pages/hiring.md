@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Openings"
-excerpt: "Openings"
+permalink: /openings/
 author_profile: true
-redirect_from: 
-  - /openings/
-  - /openings.html
 ---
 
 <style type="text/css">
