@@ -34,6 +34,6 @@ I always welcome applications from highly motivated students who wish to pursue 
 
 If you are an undergraduate student at SMU interested in pursuing a research assistantship project, please drop me an email with your CV, transcripts and a few sentences on what aspects of my research interest you.
 
-# Visiting PhD/Master/Undergraduate Students
+# Visiting PhD/Master/Undergraduate Students (a.k.a. Internships)
 
 Our group has multiple openings and welcomes applications for visiting PhD/Master/Undergraduate students from other institutions, who wish to pursue research in our group. The minimum duration of the visiting student position is **6 months**. If you are interested in visiting positions, feel free to drop me an email with your CV, transcripts and a few sentences on what aspects of my research interest you.

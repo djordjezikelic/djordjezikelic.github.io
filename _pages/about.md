@@ -27,7 +27,7 @@ You can reach me at dzikelic@smu.edu.sg.
 
 # Openings
 
-**I have multiple openings for motivated PhD students, as well as visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program analysis. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
+**I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program analysis. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
 <!-- **I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please apply through our [PhD program](https://computing.smu.edu.sg/phd/online-application) and list me as a potential advisor. You are also welcome to reach out to me directly before applying. Applicants with a degree in computer science, mathematics or related fields are all welcome. I also have openings for research assistants (students at SMU), internships and visiting research students (undergraduate, master and PhD students from other institutions). If you are interested in any of the above positions, feel free to drop me an email with your CV, transcripts and a few sentences about what aspects of my work interest you.**
 
