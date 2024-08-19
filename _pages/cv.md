@@ -18,4 +18,4 @@ pre {
 }
 </style>
 
-You can find my CV [here](CV_Zikelic.pdf).
+You can find my CV [here](CV_Zikelic.pdf) (last updated in August, 2024).
