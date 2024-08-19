@@ -20,7 +20,7 @@ pre {
 
 We are growing a new research group at SMU and have multiple openings for motivated students. The research agenda of our group is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. Our research interests are broad and lie at the interplay of **Formal Methods, Artificial Intelligence and Programming Languages**, with interest in both theory and automation aspects. Hence, we welcome applicants from a broad range of backgrounds. All positions are **fully funded**.
 
-Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier and fast growing university that provides an excellent research environment with strong groups in formal methods, AI and software engineering. It is ranked worldwide No. 4 in the Software Engineering category, No. 13 in the Artificial Intelligence category, and No. 72 in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us) in 2024.
+Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier and fast growing university that provides an excellent research environment with strong groups in formal methods, AI and software engineering. It is ranked worldwide No. 4 in the Software Engineering category, No. 33 in the broad AI category, and No. 72 in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us) in 2024.
 
 # PhD Positions
 
@@ -30,7 +30,7 @@ I always welcome applications from highly motivated students who wish to pursue 
 
 **PhD application procedure.** PhD application process at SMU is centralized and all applications should be submitted through our PhD Programme. Please apply via this [link](https://scis.smu.edu.sg/programmes/PhD/online-application) and list me as a potential advisor. At the link, you can also find the list of all required application documents. Before applying, please also email me directly at dzikelic@smu.edu.sg so that I am aware of your application and that it reaches me more quickly. In the email, include your CV, transcripts, and a few sentences on your research interests and how they relate to my research. For more information about the PhD programme at SMU, see [here](https://scis.smu.edu.sg/programmes/PhD/overview). 
 
-**Financial support.** The PhD programme at SMU provides full scholarships together with a monthly stipend for all full-time PhD students on a competitive basis. PhD positions also come with additional funding for conference travel.
+**Financial support.** The PhD programme at SMU provides full scholarships together with a monthly stipend for all full-time PhD students. PhD positions also come with additional funding for conference travel.
 
 # Undergraduate Research Assistantships at SMU
 

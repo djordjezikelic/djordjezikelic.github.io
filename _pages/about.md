@@ -48,6 +48,8 @@ See also my [research statement](https://computing.smu.edu.sg/faculty/profile/77
 
 # News
 
+* <span style="color:grey">August 2024</span>\. I will attend [IJCAI 2024](https://ijcai24.org/) in Jeju, South Korea, and [FM 2024](https://www.fm24.polimi.it/) in Milan, Italy. If you will be at either of these events and would like to connect, please reach out.
+
 * <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and gave a talk about *Neural Controller Synthesis and Verification with Guarantees*.
 
 * <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at ECNU in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
