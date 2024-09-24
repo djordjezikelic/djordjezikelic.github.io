@@ -37,28 +37,30 @@ Singapore is a vibrant and cosmopolitan place with a thriving academic landscape
 
 # Research Interests
 
-My research is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. It lies at the intersection of **Formal Methods**, **Artificial Intelligence** and **Programming Languages** research. The long term goal of my research is to advance the theory and automation of formal reasoning about software and intelligent systems in the presence of **uncertainty**. Uncertainty may arise due to a plethora of reasons, including interaction with unknown environments, inference from data, randomization, interleaving of processes or multi-agent systems. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct software and intelligent systems in practice. My current research interests (with references to some recent work) include:
+My research is concerned with helping programmers ensure that software and intelligent systems are correct, safe, and trustworthy. It lies at the intersection of **Formal Methods**, **Artificial Intelligence** and **Programming Languages** research. The long term goal of my research is to advance the theory and automation of **formal methods for trustworthy AI and software**, especially in the presence of **uncertainty**. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct software and AI systems in practice. My current research interests (with references to some recent work) include:
+- Safe (stochastic) control and reinforcement learning ([NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
 - Program analysis of probabilistic programs ([PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4)) and numerical programs ([FM24](https://arxiv.org/abs/2403.05386), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093))
-- Safe learning for (stochastic) control and reinforcement learning ([NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
-- Formal methods for finite-state Markov models ([IJCAI24a](https://arxiv.org/abs/2405.04015), [IJCAI24b](https://arxiv.org/abs/2312.13912), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5))
-- Formal methods for safe AI ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
+- Planning and verification in Markov models ([IJCAI24a](https://arxiv.org/abs/2405.04015), [IJCAI24b](https://arxiv.org/abs/2312.13912), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5))
+- Certified learning and verification of learned systems ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
 - Broader perspective and applications of probabilistic verification: Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38)); Blockchain protocols ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))
 
 See also my [research statement](https://computing.smu.edu.sg/faculty/profile/7726/djordje-zikelic) for a more detailed overview of my work (last updated in December 2023).
 
 # News
 
-* <span style="color:grey">August 2024</span>\. I will attend [IJCAI 2024](https://ijcai24.org/) in Jeju, South Korea, and [FM 2024](https://www.fm24.polimi.it/) in Milan, Italy. If you will be at either of these events and would like to connect, please reach out.
+* <span style="color:grey">September 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) is awarded a **Distinguished Paper Award** at FM 2024.
 
-* <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and gave a talk about *Neural Controller Synthesis and Verification with Guarantees*.
+* <span style="color:grey">August 2024</span>\. I will attend [IJCAI 2024](https://ijcai24.org/) in Jeju, South Korea, [FM 2024](https://www.fm24.polimi.it/) in Milan, Italy, and [OOPSLA 2024](https://2024.splashcon.org/) in Pasadena, CA, US. If you will be at either of these events and would like to connect, please reach out.
+
+<!--  * <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and gave a talk about *Neural Controller Synthesis and Verification with Guarantees*.  -->
 
 * <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at ECNU in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
 
 * <span style="color:grey">June 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
 
-* <span style="color:grey">May 2024</span>\. Visited [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at National University of Singapore and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+<!--  * <span style="color:grey">May 2024</span>\. Visited [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at National University of Singapore and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.  -->
 
-* <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) at IIT Bombay and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.
+<!--  * <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) at IIT Bombay and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.  -->
 
 * <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
 
