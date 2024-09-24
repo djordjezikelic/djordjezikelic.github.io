@@ -27,8 +27,8 @@ pre {
 30. Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs <br/>
 27th International Symposium on Formal Methods. **FM 2024**<br/>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Đorđe Žikelić<sup>&dagger;</sup><br/>
-**Distinguished Paper Award**<br/>
-[paper](), [preprint](https://arxiv.org/abs/2403.05386)
+<span style="color:red">*Distinguished Paper Award*</span><br/>
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_31), [preprint](https://arxiv.org/abs/2403.05386)
 
 29. Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains <br/>
 43rd ACM Symposium on Principles of Distributed Computing. **PODC 2024**<br/>
@@ -38,12 +38,12 @@ Krishnendu Chatterjee, Amirali Ebrahim-Zadeh, Mehrdad Karrabi, Krzysztof Pietrza
 28. Certified Policy Verification and Synthesis for MDPs under Distributional Reach-Avoidance Properties <br/>
 33rd International Joint Conference on Artificial Intelligence. **IJCAI 2024**<br/>
 S. Akshay, Krishnendu Chatterjee, Tobias Meggendorfer, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2405.04015)
+[paper](https://www.ijcai.org/proceedings/2024/0001.pdf), [preprint](https://arxiv.org/abs/2405.04015)
 
 27. Solving Long-run Average Reward Robust MDPs via Stochastic Games <br/>
 33rd International Joint Conference on Artificial Intelligence. **IJCAI 2024**<br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2312.13912)
+[paper](https://www.ijcai.org/proceedings/2024/0741.pdf), [preprint](https://arxiv.org/abs/2312.13912)
 
 26. Equivalence and Similarity Refutation for Probabilistic Programs <br/>
 46th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2024**<br/>
