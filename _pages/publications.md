@@ -27,7 +27,7 @@ pre {
 30. Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs <br/>
 27th International Symposium on Formal Methods. **FM 2024**<br/>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Đorđe Žikelić<sup>&dagger;</sup><br/>
-<span style="color:red">**Distinguished Paper Award**</span><br/>
+**Distinguished Paper Award**<br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_31), [preprint](https://arxiv.org/abs/2403.05386)
 
 29. Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains <br/>
@@ -124,7 +124,7 @@ Krishnendu Chatterjee, Jakub Svoboda, Đorđe Žikelić, Andreas Pavlogiannis an
 12. Differential Cost Analysis with Simultaneous Potentials and Anti-potentials <br/>
 44th ACM SIGPLAN Conference on Programming Language Design and Implementation. **PLDI 2022**<br/>
 Đorđe Žikelić, Bor-Yuh Evan Chang, Pauline Bolignano, Franco Raimondi <br>
-<span style="color:red">**Featured in the Amazon Science [blog](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)**</span><br/>
+**Featured in the Amazon Science [blog](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)**<br/>
 [paper](https://dl.acm.org/doi/abs/10.1145/3519939.3523435),
 [preprint](https://arxiv.org/abs/2204.00870)
 
@@ -145,7 +145,7 @@ Mathias Lechner<sup>∗</sup>, Đorđe Žikelić<sup>∗</sup>, Krishnendu Chatt
 9. On Lexicographic Proof Rules for Probabilistic Termination <br/>
 24th International Symposium on Formal Methods. **FM 2021**<br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Jiří Zárevúcky, Đorđe Žikelić<sup>&dagger;</sup><br/>
-<span style="color:red">**Invited to the Special Collection from FM 2021 dedicated to best papers**</span><br/>
+**Invited to the Special Collection from FM 2021 dedicated to best papers**<br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-90870-6_33), [preprint](https://arxiv.org/abs/2108.02188)
 
 8. Proving Non-termination by Program Reversal <br/>
