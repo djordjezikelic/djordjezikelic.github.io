@@ -45,8 +45,8 @@ My research is concerned with helping programmers ensure that AI and software sy
 2. Program Analysis
     - Probabilistic programs ([PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4))
     - Numerical programs ([FM24](https://arxiv.org/abs/2403.05386), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093))
-3. Broader perspective and applications of probabilistic systemverification:
-    -Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38))
+3. Broader perspective and applications of probabilistic system verification:
+    - Bidding games on graphs ([ECAI23](https://ebooks.iospress.nl/volumearticle/64196), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38))
     - Blockchain protocol analysis ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))
     
 # News
