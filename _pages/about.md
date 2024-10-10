@@ -37,7 +37,7 @@ Singapore is a vibrant and cosmopolitan place with a thriving academic landscape
 
 # Research Interests
 
-My research is concerned with helping programmers ensure that AI and software systems are correct, safe, and trustworthy. To achieve this, I study **Formal Methods** and their applications to **Trustworthy AI and Safe Autonomy**, as well as **Program Analysis and Verification**. The long term goal of my work is to advance the theory and automation of formal methods for trustworthy AI and software, especially in the presence of **probabilistic uncertainty**. My work is concerned with both theoretical aspects of formal reasoning under uncertainty, as well as the development of automated methods to help programmers build correct AI and software systems in practice. My current research interests include:
+My research is concerned with helping programmers ensure that AI and software systems are correct, safe, and trustworthy. To achieve this, I study **Formal Methods** and their applications to **Trustworthy AI and Safe Autonomy**, as well as **Program Analysis and Verification**. The long term goal of my work is to advance the theory and automation of formal methods for trustworthy AI and software, especially in the presence of **probabilistic uncertainty**. My work is concerned with both theoretical aspects of formal reasoning about probabilistic systems, as well as the development of automated methods to help programmers build correct AI and software systems in practice. My current research interests include:
 1. Trustworthy AI and Safe Autonomy
     - Learning-enabled control and safe reinforcement learning ([NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [ATVA23](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
     - Planning and verification in Markov models ([IJCAI24a](https://arxiv.org/abs/2405.04015), [IJCAI24b](https://arxiv.org/abs/2312.13912), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5))
@@ -50,6 +50,8 @@ My research is concerned with helping programmers ensure that AI and software sy
     - Blockchain protocol analysis ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))
     
 # News
+
+* <span style="color:grey">October 2024</span>\. **Distinguished Reviewer Award** at SETTA 2024.
 
 * <span style="color:grey">September 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) is awarded a **Distinguished Paper Award** at FM 2024.
 

@@ -8,7 +8,7 @@ author_profile: true
 <style type="text/css">
 
 body, td {
-   font-size: 14px;
+   font-size: 12px;
 }
 code.r{
   font-size: 20px;
@@ -25,7 +25,7 @@ pre {
 # <span style="color:grey">2024</span>
 
 30. Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs <br/>
-27th International Symposium on Formal Methods. **FM 2024**<br/>
+26th International Symposium on Formal Methods. **FM 2024**<br/>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Đorđe Žikelić<sup>&dagger;</sup><br/>
 **Distinguished Paper Award**<br/>
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_31), [preprint](https://arxiv.org/abs/2403.05386)
