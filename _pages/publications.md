@@ -20,6 +20,17 @@ pre {
 
 <sup>∗</sup> equal contribution, <sup>&dagger;</sup> authors ordered alphabetically
 
+# Preprints
+
+32. PolyHorn: A Polynomial Horn Clause Solver<br/>
+Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar
+Goharshady, Mehrdad Karrabi, Milad Saadat, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[preprint](https://arxiv.org/pdf/2408.03796)
+
+31. Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies<br/>
+Jieke Shi, Junda He, Zhou Yang, Đorđe Žikelić, David Lo<br/>
+[preprint](https://arxiv.org/pdf/2410.05641)
+
 # Conference and Journal Papers
 
 # <span style="color:grey">2024</span>
