@@ -22,6 +22,18 @@ pre {
 
 # Conference and Journal Papers
 
+# <span style="color:grey">2025</span>
+
+32. Neural Control and Certificate Repair via Runtime Monitoring <br/>
+39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
+Emily Yu, Đorđe Žikelić, Thomas A. Henzinger <br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
+31. Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization <br/>
+39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Harshit J Motwani, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
 # <span style="color:grey">2024</span>
 
 30. Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs <br/>

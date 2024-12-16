@@ -51,6 +51,10 @@ My research is concerned with helping programmers ensure that AI and software sy
     
 # News
 
+* <span style="color:grey">December 2024</span>\. Two papers accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#):
+	- [Neural Control and Certificate Repair via Runtime Monitoring](https://djordjezikelic.github.io/)
+	- [Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization](https://djordjezikelic.github.io/)
+
 * <span style="color:grey">October 2024</span>\. **Distinguished Reviewer Award** at SETTA 2024.
 
 * <span style="color:grey">September 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) is awarded a **Distinguished Paper Award** at FM 2024.
