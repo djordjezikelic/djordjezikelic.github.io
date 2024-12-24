@@ -32,12 +32,12 @@ Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikeli
 32. Neural Control and Certificate Repair via Runtime Monitoring <br/>
 39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
 Emily Yu, Đorđe Žikelić, Thomas A. Henzinger <br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2412.12996)
 
 31. Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization <br/>
 39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Harshit J Motwani, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2412.16226)
 
 # <span style="color:grey">2024</span>
 

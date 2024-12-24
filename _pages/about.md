@@ -39,7 +39,7 @@ Singapore is a vibrant and cosmopolitan place with a thriving academic landscape
 
 My research is concerned with helping programmers ensure that AI and software systems are correct, safe, and trustworthy. To achieve this, I study **Formal Methods** and their applications to **Trustworthy AI and Safe Autonomy**, as well as **Program Analysis and Verification**. The long term goal of my work is to advance the theory and automation of formal methods for trustworthy AI and software, especially in the presence of **probabilistic uncertainty**. My work is concerned with both theoretical aspects of formal reasoning about probabilistic systems, as well as the development of automated methods to help programmers build correct AI and software systems in practice. My current research interests include:
 1. Trustworthy AI and Safe Autonomy
-    - Learning-enabled control and safe reinforcement learning ([AAAI 2025](https://arxiv.org/abs/2412.12996), ][NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [ATVA23](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
+    - Learning-enabled control and safe reinforcement learning ([AAAI 2025](https://arxiv.org/abs/2412.12996), [NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [ATVA23](https://link.springer.com/chapter/10.1007/978-3-031-45329-8_17), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
     - Formal verification and synthesis in Markov models ([IJCAI24a](https://arxiv.org/abs/2405.04015), [IJCAI24b](https://arxiv.org/abs/2312.13912), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5), [FSTTCS22](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2022.29))
     - Formal verification of learned systems (e.g. neural networks) ([AAAI23](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
 2. Program Analysis and Verification
@@ -55,7 +55,7 @@ My research is concerned with helping programmers ensure that AI and software sy
 
 * <span style="color:grey">December 2024</span>\. Two papers accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#):
 	- [Neural Control and Certificate Repair via Runtime Monitoring](https://arxiv.org/abs/2412.12996)
-	- [Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization](https://djordjezikelic.github.io/)
+	- [Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization](https://arxiv.org/abs/2412.16226)
 
 * <span style="color:grey">October 2024</span>\. **Distinguished Reviewer Award** at SETTA 2024.
 
