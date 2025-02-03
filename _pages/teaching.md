@@ -18,13 +18,13 @@ pre {
 }
 </style>
 
-- [CS423: Heuristic Search and Optimisation](https://computing.smu.edu.sg/bsc-computer-science/curriculum#heuristic_search_and_optimization_CS2023) (Spring 2024, undergraduate course)
+- [CS423: Heuristic Search and Optimisation](https://computing.smu.edu.sg/bsc-computer-science/curriculum#heuristic_search_and_optimization_CS2023) (Spring 2025, Spring 2024, undergraduate course)
     - Exact search (shortest path algorithms, routing algorithms)
     - Heuristic search (A* search, other heuristics)
     - Linear programming
     - Integer programming
     - Convex programming and gradient descent
 
-    Overall course rating: **6.6 / 7** <br/>
-    Overall instructor rating: **6.8 / 7** (highest student rating of all non-compulsory Core Curriculum courses)
+    Overall course rating (Spring 2024): **6.6 / 7** <br/>
+    Overall instructor rating (Spring 2024): **6.8 / 7** (highest student rating of all non-compulsory Core Curriculum courses)
 
