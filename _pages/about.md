@@ -52,7 +52,9 @@ My research is concerned with helping programmers ensure that software and AI sy
     
 # News
 
-* <span style="color:grey">December 2024</span>\. [Refuting Equivalence in Probabilistic Programs with Conditioning](https://djordjezikelic.github.io/) accepted at [TACAS 2025](https://etaps.org/2025/conferences/tacas/).
+* <span style="color:grey">February 2025</span>\. I will attend [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#) in Philadelphia, PA, US. If you will around and would like to connect, please reach out.
+
+* <span style="color:grey">December 2024</span>\. [Refuting Equivalence in Probabilistic Programs with Conditioning](https://arxiv.org/abs/2501.06579) accepted at [TACAS 2025](https://etaps.org/2025/conferences/tacas/).
 
 * <span style="color:grey">December 2024</span>\. Two papers accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#):
 	- [Neural Control and Certificate Repair via Runtime Monitoring](https://arxiv.org/abs/2412.12996)
@@ -64,18 +66,6 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">August 2024</span>\. I will attend [IJCAI 2024](https://ijcai24.org/) in Jeju, South Korea, [FM 2024](https://www.fm24.polimi.it/) in Milan, Italy, and [OOPSLA 2024](https://2024.splashcon.org/) in Pasadena, CA, US. If you will be at either of these events and would like to connect, please reach out.
 
-<!--  * <span style="color:grey">July 2024</span>\. Visited [Amir Goharshady](https://amir.goharshady.com/) at HKUST and gave a talk about *Neural Controller Synthesis and Verification with Guarantees*.  -->
-
 * <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at ECNU in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
 
-* <span style="color:grey">June 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) accepted at [FM 2024](https://www.fm24.polimi.it/).
-
-<!--  * <span style="color:grey">May 2024</span>\. Visited [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at National University of Singapore and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.  -->
-
-<!--  * <span style="color:grey">May 2024</span>\. Visited [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) at IIT Bombay and gave a talk about *A Learner-verifier Framework for Certifying Neural Controllers in Stochastic Systems*.  -->
-
 * <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.
-
-* <span style="color:grey">April 2024</span>\. Two papers accepted at [IJCAI 2024](https://ijcai24.org/):
-	- [Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties](https://arxiv.org/abs/2405.04015)
-	- [Solving Long-run Average Reward Robust MDPs via Stochastic Games](https://arxiv.org/abs/2312.13912)
