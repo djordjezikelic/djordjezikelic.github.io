@@ -27,7 +27,7 @@ pre {
 33. Refuting Equivalence in Probabilistic Programs with Conditioning <br/>
 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems. **TACAS 2025** <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2501.06579)
 
 32. Neural Control and Certificate Repair via Runtime Monitoring <br/>
 39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
