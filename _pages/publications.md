@@ -24,6 +24,21 @@ pre {
 
 # <span style="color:grey">2025</span>
 
+36. Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br/>
+Thomas A. Henzinger, Kaushik Mallik, Pouya Sadeghi, Đorđe Žikelić<sup>&dagger;</sup><br/>
+37th International Conference on Computer Aided Verification. **CAV 2025**
+[coming soon](https://djordjezikelic.github.io/publications/)
+
+35. NeuralStoc: A Tool for Neural Stochastic Control and Verification <br/>
+Matin Ansaripour, Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Abhinav Verma, Đorđe Žikelić<sup>&dagger;</sup><br/>
+37th International Conference on Computer Aided Verification. **CAV 2025**
+[coming soon](https://djordjezikelic.github.io/publications/)
+
+34. Predictive Monitoring of Black-Box Dynamical Systems <br/>
+Thomas A. Henzinger, Fabian Kresse, Kaushik Mallik, Emily Yu, Đorđe Žikelić<sup>&dagger;</sup><br/>
+7th Annual Learning for Dynamics & Control Conference. **L4DC 2025**
+[preprint](https://arxiv.org/abs/2412.16564)
+
 33. Refuting Equivalence in Probabilistic Programs with Conditioning <br/>
 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems. **TACAS 2025** <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>

@@ -52,6 +52,12 @@ My research is concerned with helping programmers ensure that software and AI sy
     
 # News
 
+* <span style="color:grey">April 2025</span>\. Two papers accepted at [CAV 2025](https://conferences.i-cav.org/2025/), preprints coming soon:
+	- Supermartingale Certificates for Quantitative Omega-regular Verification and Control
+	- NeuralStoc: A Tool for Neural Stochastic Control and Verification
+	
+* <span style="color:grey">February 2025</span>\. [Predictive Monitoring of Black-Box Dynamical Systems](https://arxiv.org/abs/2412.16564) accepted at [L4DC 2025](https://sites.google.com/umich.edu/l4dc2025/).
+
 * <span style="color:grey">February 2025</span>\. I will attend [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#) in Philadelphia, PA, US. If you will around and would like to connect, please reach out.
 
 * <span style="color:grey">December 2024</span>\. [Refuting Equivalence in Probabilistic Programs with Conditioning](https://arxiv.org/abs/2501.06579) accepted at [TACAS 2025](https://etaps.org/2025/conferences/tacas/).
