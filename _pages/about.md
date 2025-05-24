@@ -52,9 +52,9 @@ My research is concerned with helping programmers ensure that software and AI sy
     
 # News
 
-* <span style="color:grey">April 2025</span>\. Two papers accepted at [CAV 2025](https://conferences.i-cav.org/2025/), preprints coming soon:
-	- Supermartingale Certificates for Quantitative Omega-regular Verification and Control
-	- NeuralStoc: A Tool for Neural Stochastic Control and Verification
+* <span style="color:grey">May 2025</span>\. [LP-Based Weighted Model Integration over Non-Linear Real Arithmetic](https://djordjezikelic.github.io/) accepted at [IJCAI 2025](https://2025.ijcai.org/).
+
+* <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://djordjezikelic.github.io/) accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
 	
 * <span style="color:grey">February 2025</span>\. [Predictive Monitoring of Black-Box Dynamical Systems](https://arxiv.org/abs/2412.16564) accepted at [L4DC 2025](https://sites.google.com/umich.edu/l4dc2025/).
 
@@ -69,9 +69,4 @@ My research is concerned with helping programmers ensure that software and AI sy
 * <span style="color:grey">October 2024</span>\. **Distinguished Reviewer Award** at SETTA 2024.
 
 * <span style="color:grey">September 2024</span>\. [Sound and Complete Witnesses for Template-based Verification of LTL Properties on Polynomial Programs](https://arxiv.org/abs/2403.05386) is awarded a **Distinguished Paper Award** at FM 2024.
-
-* <span style="color:grey">August 2024</span>\. I will attend [IJCAI 2024](https://ijcai24.org/) in Jeju, South Korea, [FM 2024](https://www.fm24.polimi.it/) in Milan, Italy, and [OOPSLA 2024](https://2024.splashcon.org/) in Pasadena, CA, US. If you will be at either of these events and would like to connect, please reach out.
-
 * <span style="color:grey">July 2024</span>\. Had a wonderful time attending and meeting students at the [20th International Summer School on Trustworthy Software](https://seisummerschool.github.io/2024/index.html#home), at ECNU in Shanghai, China. At the summer school, together with [Tom Henzinger](https://pub.ista.ac.at/~tah/), we gave a lecture on *Trustworthy AI through Neural Certificates, Runtime Monitoring, and Multi-Agent Reasoning*.
-
-* <span style="color:grey">April 2024</span>\. [Fully Automated Selfish Mining Analysis in Efficient Proof Systems Blockchains](https://arxiv.org/abs/2405.04420) accepted at [PODC 2024](https://www.podc.org/podc2024/). Result of an exciting collaboration with cryptography researchers, in which we used probabilistic model checking to analyze and develop novel selfish mining attacks on efficient proof system blockchains.

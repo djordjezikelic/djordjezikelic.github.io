@@ -25,6 +25,6 @@ pre {
     - Integer programming
     - Convex programming and gradient descent
 
-    Overall course rating (Spring 2024): **6.6 / 7** <br/>
-    Overall instructor rating (Spring 2024): **6.8 / 7** (highest student rating of all non-compulsory Core Curriculum courses)
+    Overall course rating (Spring 2025): **6.9/7.0** (highest student rating among all courses) <br/>
+    Overall instructor rating (Spring 2025): **7.0/7.0** (highest student rating among all courses)
 

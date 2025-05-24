@@ -24,14 +24,14 @@ pre {
 
 # <span style="color:grey">2025</span>
 
-36. Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br/>
-37th International Conference on Computer Aided Verification. **CAV 2025** <br/>
-Thomas A. Henzinger, Kaushik Mallik, Pouya Sadeghi, Đorđe Žikelić<sup>&dagger;</sup><br/>
+36. LP-Based Weighted Model Integration over Non-Linear Real Arithmetic <br/>
+345h International Joint Conference on Artificial Intelligence. **IJCAI 2025**<br/>
+S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady,  Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
 
-35. NeuralStoc: A Tool for Neural Stochastic Control and Verification <br/>
+35. Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br/>
 37th International Conference on Computer Aided Verification. **CAV 2025** <br/>
-Matin Ansaripour, Krishnendu Chatterjee, Thomas A. Henzinger, Mathias Lechner, Abhinav Verma, Đorđe Žikelić<sup>&dagger;</sup><br/>
+Thomas A. Henzinger, Kaushik Mallik, Pouya Sadeghi, Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
 
 34. Predictive Monitoring of Black-Box Dynamical Systems <br/>
