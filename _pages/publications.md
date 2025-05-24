@@ -26,7 +26,7 @@ pre {
 
 36. LP-Based Weighted Model Integration over Non-Linear Real Arithmetic <br/>
 345h International Joint Conference on Artificial Intelligence. **IJCAI 2025**<br/>
-S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady,  Đorđe Žikelić<sup>&dagger;</sup><br/>
+S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
 
 35. Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br/>
