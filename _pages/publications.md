@@ -42,17 +42,17 @@ Thomas A. Henzinger, Fabian Kresse, Kaushik Mallik, Emily Yu, Đorđe Žikelić<
 33. Refuting Equivalence in Probabilistic Programs with Conditioning <br/>
 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems. **TACAS 2025** <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2501.06579)
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-90653-4_14), [preprint](https://arxiv.org/abs/2501.06579)
 
 32. Neural Control and Certificate Repair via Runtime Monitoring <br/>
 39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
 Emily Yu, Đorđe Žikelić, Thomas A. Henzinger <br/>
-[preprint](https://arxiv.org/abs/2412.12996)
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34840), [preprint](https://arxiv.org/abs/2412.12996)
 
 31. Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization <br/>
 39th AAAI Conference on Artificial Intelligence. **AAAI 2025** <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Harshit J Motwani, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2412.16226)
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33213), [preprint](https://arxiv.org/abs/2412.16226)
 
 # <span style="color:grey">2024</span>
 
