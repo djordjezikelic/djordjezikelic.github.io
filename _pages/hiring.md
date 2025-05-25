@@ -18,7 +18,7 @@ pre {
 }
 </style>
 
-We are growing a new research group at SMU and have multiple openings for motivated students. The research agenda of our group is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. Our research interests are broad and lie at the interplay of **Formal Methods, Artificial Intelligence and Programming Languages**, with interest in both theory and automation aspects. Hence, we welcome applicants from a broad range of backgrounds. All positions are **fully funded** and come with highly competitive scholarships.
+We are growing a new research group at SMU and have multiple openings for motivated students. The research agenda of our group is concerned with helping programmers ensure that software and intelligent systems are correct, safe, robust and trustworthy. Our research interests are broad and lie at the interplay of **Formal Methods, Artificial Intelligence and Programming Languages**, with interest in both theory and automation aspects. Hence, we welcome applicants from a broad range of backgrounds. All positions are **fully funded**.
 
 Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier and fast growing university that provides an excellent research environment with strong groups in formal methods, AI and software engineering. It is ranked worldwide No. 3 in the Software Engineering category, No. 29 in the broad AI category, and No. 58 in general "Computer Science" according to [CSRankings](https://csrankings.org/#/index?all&us) 2019- 2024.
 
