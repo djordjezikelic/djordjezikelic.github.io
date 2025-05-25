@@ -26,6 +26,10 @@ pre {
 - **2023:** AAAI 2023, ECAI 2023, CAV AEC 2023
 - **2022:** CAV AEC 2022
 
+# Organizing Committee
+
+- Programming Languages Mentoring Workshop (PLMW) @ PLDI 2025
+
 # Reviewer/External Reviewer/Subreviewer
 
 - **2024:** POPL 2024, TACAS 2024, LICS 2024, ISSAC 2024
