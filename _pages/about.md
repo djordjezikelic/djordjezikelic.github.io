@@ -53,7 +53,7 @@ My research is concerned with helping programmers ensure that software and AI sy
     
 # News
 
-* <span style="color:grey">May 2025</span>\. [LP-Based Weighted Model Integration over Non-Linear Real Arithmetic](https://djordjezikelic.github.io/) accepted at [IJCAI 2025](https://2025.ijcai.org/).
+* <span style="color:grey">May 2025</span>\. [LP-Based Weighted Model Integration over Non-Linear Real Arithmetic](https://hal.science/hal-05071513/) accepted at [IJCAI 2025](https://2025.ijcai.org/).
 
 * <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://arxiv.org/abs/2505.18833) accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
 	
