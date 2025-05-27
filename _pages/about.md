@@ -55,7 +55,7 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">May 2025</span>\. [LP-Based Weighted Model Integration over Non-Linear Real Arithmetic](https://djordjezikelic.github.io/) accepted at [IJCAI 2025](https://2025.ijcai.org/).
 
-* <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://djordjezikelic.github.io/) accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
+* <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://arxiv.org/abs/2505.18833) accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
 	
 * <span style="color:grey">February 2025</span>\. [Predictive Monitoring of Black-Box Dynamical Systems](https://arxiv.org/abs/2412.16564) accepted at [L4DC 2025](https://sites.google.com/umich.edu/l4dc2025/).
 

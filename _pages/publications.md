@@ -32,7 +32,7 @@ S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J M
 35. Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br/>
 37th International Conference on Computer Aided Verification. **CAV 2025** <br/>
 Thomas A. Henzinger, Kaushik Mallik, Pouya Sadeghi, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2505.18833)
 
 34. Predictive Monitoring of Black-Box Dynamical Systems <br/>
 7th Annual Learning for Dynamics & Control Conference. **L4DC 2025** <br/>
