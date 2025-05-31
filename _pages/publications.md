@@ -24,8 +24,13 @@ pre {
 
 # <span style="color:grey">2025</span>
 
+37. Omega-regular Verification and Control for Distributional Specifications in MDPs <br/>
+36th International Conference on Concurrency Theory. **CONCUR 2025**<br/>
+S. Akshay, Ouldouz Neysari,  Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/)
+
 36. LP-Based Weighted Model Integration over Non-Linear Real Arithmetic <br/>
-345h International Joint Conference on Artificial Intelligence. **IJCAI 2025**<br/>
+34th International Joint Conference on Artificial Intelligence. **IJCAI 2025**<br/>
 S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
 [preprint](https://hal.science/hal-05071513v1/document)
 
