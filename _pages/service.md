@@ -20,7 +20,7 @@ pre {
 
 # Program Committee
 
-- **2026:** TACAS
+- **2026:** TACAS, PLDI
 - **2025:** AAAI, CAV, IJCAI, ECAI, NeurIPS, VMCAI, ASE, SAIV, SETTA
 - **2024:** AAAI, IJCAI, ECAI, ATVA, SETTA (**Distinguished Reviewer Award**)
 - **2023:** AAAI, ECAI, CAV AEC

@@ -24,10 +24,15 @@ pre {
 
 # <span style="color:grey">2025</span>
 
+38. PolyQEnt: A Polynomial Quantified Entailment Solver <br/>
+23rd edition of the International Symposium on Automated Technology for Verification and Analysis. **ATVA 2025** <br/>
+Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Milad Saadat, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[preprint](https://arxiv.org/abs/2408.03796), [PolyQEnt tool](https://github.com/ChatterjeeGroup-ISTA/polyqent)
+
 37. Omega-regular Verification and Control for Distributional Specifications in MDPs <br/>
 36th International Conference on Concurrency Theory. **CONCUR 2025**<br/>
 S. Akshay, Ouldouz Neysari,  Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/)
+[preprint](https://arxiv.org/abs/2507.04286)
 
 36. LP-Based Weighted Model Integration over Non-Linear Real Arithmetic <br/>
 34th International Joint Conference on Artificial Intelligence. **IJCAI 2025**<br/>
