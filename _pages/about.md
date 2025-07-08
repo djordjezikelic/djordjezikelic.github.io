@@ -55,7 +55,7 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">July 2025</span>\. I will attend [CAV 2025](https://aaai.org/conference/aaai/aaai-25/#) in Zagreb, Croatia, and [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark. If you will around and would like to connect, please reach out.
 
-* <span style="color:grey">July 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) accepted at [ATVA 2025](https://conf.researchr.org/home/atva-2025). You can find the tool [here](https://github.com/ChatterjeeGroup-ISTA/polyqent).
+* <span style="color:grey">July 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) accepted at [ATVA 2025](https://conf.researchr.org/home/atva-2025). You can find our PolyQEnt tool [here](https://github.com/ChatterjeeGroup-ISTA/polyqent).
 
 * <span style="color:grey">May 2025</span>\. [Omega-regular Verification and Control for Distributional Specifications in MDPs](https://arxiv.org/abs/2507.04286) accepted at [CONCUR 2025](https://conferences.au.dk/confest2025/concur).
 
