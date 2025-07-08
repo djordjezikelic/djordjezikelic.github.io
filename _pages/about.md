@@ -25,11 +25,11 @@ I am an Assistant Professor of Computer Science at the [School of Computing and 
 
 You can reach me at dzikelic@smu.edu.sg.
 
-# Openings
+<!-- **# Openings
 
 **I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
-<!-- **I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please apply through our [PhD program](https://computing.smu.edu.sg/phd/online-application) and list me as a potential advisor. You are also welcome to reach out to me directly before applying. Applicants with a degree in computer science, mathematics or related fields are all welcome. I also have openings for research assistants (students at SMU), internships and visiting research students (undergraduate, master and PhD students from other institutions). If you are interested in any of the above positions, feel free to drop me an email with your CV, transcripts and a few sentences about what aspects of my work interest you.**
+I have multiple openings for motivated PhD students to work with me on topics related to formal methods, trustworthy AI or program analysis. Please apply through our [PhD program](https://computing.smu.edu.sg/phd/online-application) and list me as a potential advisor. You are also welcome to reach out to me directly before applying. Applicants with a degree in computer science, mathematics or related fields are all welcome. I also have openings for research assistants (students at SMU), internships and visiting research students (undergraduate, master and PhD students from other institutions). If you are interested in any of the above positions, feel free to drop me an email with your CV, transcripts and a few sentences about what aspects of my work interest you.**
 
 Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. SMU is a premier university and provides an excellent research environment with strong groups in formal methods, AI and software engineering. Doctoral positions at SMU are **fully funded**. See this [page](https://computing.smu.edu.sg/phd/admissions-fees-scholarships) for details. -->
 
