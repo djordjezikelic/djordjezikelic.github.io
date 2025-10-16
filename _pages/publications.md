@@ -27,6 +27,7 @@ pre {
 38. PolyQEnt: A Polynomial Quantified Entailment Solver <br/>
 23rd edition of the International Symposium on Automated Technology for Verification and Analysis. **ATVA 2025** <br/>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Milad Saadat, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
+**Distinguished Tool Paper Award**<br/>
 [preprint](https://arxiv.org/abs/2408.03796), [PolyQEnt tool](https://github.com/ChatterjeeGroup-ISTA/polyqent)
 
 37. Omega-regular Verification and Control for Distributional Specifications in MDPs <br/>
@@ -37,17 +38,17 @@ S. Akshay, Ouldouz Neysari,  Đorđe Žikelić<sup>&dagger;</sup><br/>
 36. LP-Based Weighted Model Integration over Non-Linear Real Arithmetic <br/>
 34th International Joint Conference on Artificial Intelligence. **IJCAI 2025**<br/>
 S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://hal.science/hal-05071513v1/document)
+[paper](https://www.ijcai.org/proceedings/2025/1005), [preprint](https://hal.science/hal-05071513v1/document)
 
 35. Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br/>
 37th International Conference on Computer Aided Verification. **CAV 2025** <br/>
 Thomas A. Henzinger, Kaushik Mallik, Pouya Sadeghi, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2505.18833)
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_2), [preprint](https://arxiv.org/abs/2505.18833)
 
 34. Predictive Monitoring of Black-Box Dynamical Systems <br/>
 7th Annual Learning for Dynamics & Control Conference. **L4DC 2025** <br/>
 Thomas A. Henzinger, Fabian Kresse, Kaushik Mallik, Emily Yu, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2412.16564)
+[paper](https://proceedings.mlr.press/v283/henzinger25a.html), [preprint](https://arxiv.org/abs/2412.16564)
 
 33. Refuting Equivalence in Probabilistic Programs with Conditioning <br/>
 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems. **TACAS 2025** <br/>
