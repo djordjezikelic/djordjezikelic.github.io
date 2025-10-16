@@ -64,7 +64,7 @@ My research is concerned with helping programmers ensure that software and AI sy
     
 # News
 
-* <span style="color:grey">October 2025</span>\. We will organise the inaugural **Workshop on Post-AI Formal Methods (P-AI-FM)** on January 26, co-located with **AAAI 2026** in Singapore. We look forward to receiving your work and seeing you at the workshop! More details at the workshop [website](https://www.p-ai-fm.com/).
+* <span style="color:grey">October 2025</span>\. We will organise the inaugural **Workshop on Post-AI Formal Methods (P-AI-FM)** on January 26, co-located with AAAI 2026 in Singapore. We look forward to receiving your work and seeing you at the workshop! More details at the workshop [website](https://www.p-ai-fm.com/).
 
 * <span style="color:grey">October 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) has received a **Distinguished Tool Paper award** at [ATVA 2025](https://conf.researchr.org/home/atva-2025)!
 
