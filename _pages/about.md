@@ -68,7 +68,7 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">October 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) has received a **Distinguished Tool Paper award** at [ATVA 2025](https://conf.researchr.org/home/atva-2025)!
 
-* <span style="color:grey">July 2025</span>\. I will attend [CAV 2025](https://aaai.org/conference/aaai/aaai-25/#) in Zagreb, Croatia, and [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark. If you will be around and would like to catch up, please reach out!
+* <span style="color:grey">July 2025</span>\. I will attend [CAV 2025](https://aaai.org/conference/aaai/aaai-25/#) in Zagreb, Croatia, and [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark. If you will be around and would like to catch up or connect, please reach out!
 
 * <span style="color:grey">May 2025</span>\. [Omega-regular Verification and Control for Distributional Specifications in MDPs](https://arxiv.org/abs/2507.04286) accepted at [CONCUR 2025](https://conferences.au.dk/confest2025/concur).
 
@@ -76,7 +76,7 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://arxiv.org/abs/2505.18833) accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
 
-* <span style="color:grey">February 2025</span>\. I will attend [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#) in Philadelphia, PA, US. If you will around and would like to connect, please reach out.
+* <span style="color:grey">February 2025</span>\. I will attend [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#) in Philadelphia, PA, US. If you will around and would like to catch up or connect, please reach out!
 
 * <span style="color:grey">December 2024</span>\. [Refuting Equivalence in Probabilistic Programs with Conditioning](https://arxiv.org/abs/2501.06579) accepted at [TACAS 2025](https://etaps.org/2025/conferences/tacas/).
 
