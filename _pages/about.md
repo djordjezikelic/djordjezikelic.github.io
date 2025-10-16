@@ -25,7 +25,7 @@ I am an Assistant Professor of Computer Science at the [School of Computing and 
 
 You can reach me at dzikelic@smu.edu.sg.
 
-**I have multiple openings for motivated PhD students, postdocs, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
+**I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
 <!-- **I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
