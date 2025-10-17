@@ -25,7 +25,7 @@ I am an Assistant Professor of Computer Science at the [School of Computing and 
 
 You can reach me at dzikelic@smu.edu.sg.
 
-**I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. I also have an opening for one postdoc to work on relational verification of probabilistic programs or ML models. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
+**I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
 <!-- **I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
@@ -70,7 +70,7 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">October 2025</span>\. [Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](https://arxiv.org/abs/2410.05641) accepted at [TOSEM](https://dl.acm.org/journal/tosem).
 
-* <span style="color:grey">October 2025</span>\. I was awarded the Ministry of Education (MOE) Tier 1b grant for the project "Relational Verification of Probabilistic Models and Programs". I have **multiple openings** for motivated PhD students and interns and **one postdoc opening**. Reach out if interested and see [here](https://djordjezikelic.github.io/openings/) for more details!
+* <span style="color:grey">October 2025</span>\. I was awarded the Ministry of Education (MOE) Tier 1b grant for the project "Relational Verification of Probabilistic Models and Programs". I have **multiple openings** for motivated PhD students and interns. Reach out if interested and see [here](https://djordjezikelic.github.io/openings/) for more details!
 
 * <span style="color:grey">July 2025</span>\. I will attend [CAV 2025](https://aaai.org/conference/aaai/aaai-25/#) in Zagreb, Croatia, and [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark. If you will be around and would like to catch up or connect, please reach out!
 

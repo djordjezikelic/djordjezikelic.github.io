@@ -32,10 +32,6 @@ I always welcome applications from highly motivated students who wish to pursue 
 
 **Financial support.** The PhD programme at SMU provides full scholarships together with a generous monthly stipend for all full-time PhD students. See the details [here](https://computing.smu.edu.sg/phd/admissions-fees-scholarships). PhD positions also come with additional funding for conference travel. 
 
-# Postdoc Position
-
-I have one postdoc opening under the project "Relational Verification of Probabilistic Models and Programs". If you are interested, please drop me an email with your CV, top 3 publications, a few sentences on your research interests and how they relate to my research, and contact details of 2 references.
-
 # Undergraduate Research Assistantships at SMU
 
 If you are an undergraduate student at SMU interested in pursuing a research assistantship project, please drop me an email with your CV, transcripts and a few sentences on your research interests and how they relate to my research.
