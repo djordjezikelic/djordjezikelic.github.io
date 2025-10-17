@@ -25,7 +25,7 @@ I am an Assistant Professor of Computer Science at the [School of Computing and 
 
 You can reach me at dzikelic@smu.edu.sg.
 
-**I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
+**I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. I also have an opening for one postdoc to work on relational verification of probabilistic programs or ML models. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
 <!-- **I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics related to formal methods, trustworthy AI or program verification. Please see this [page](https://djordjezikelic.github.io/openings/) if interested.**
 
@@ -40,7 +40,7 @@ Singapore is a vibrant and cosmopolitan place with a thriving academic landscape
 My research is concerned with helping programmers ensure that software and AI systems are correct, safe, and trustworthy. To achieve this, I study **Formal Methods and Programming Languages** as well as **Trustworthy AI and Safe Autonomy**. The long-term goal of my work is to contribute to laying theoretical and algorithmic foundations of formal reasoning about general probabilistic models and programs. The central application domains are trustworthy AI and safe autonomy, where my goal is to develop certified learning methods and to provide formal safety guarantees on the behaviour of AI and autonomous systems, with a focus on certified neural control, safe decision making under uncertainty and safe reinforcement learning. My research interests with some selected prior work include:
 
 1. Formal Methods for Probabilistic Models and Programs
-    - Probabilistic model and program verification ([CAV25](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_2), [IJCAI24](https://www.ijcai.org/proceedings/2024/1), [PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4), [POPL17](https://dl.acm.org/doi/10.1145/3009837.3009873))
+    - Probabilistic model and program verification ([CAV25](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_2), [CONCUR25](https://arxiv.org/abs/2507.04286), [TACAS25](https://link.springer.com/chapter/10.1007/978-3-031-90653-4_14), [IJCAI24](https://www.ijcai.org/proceedings/2024/1), [PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4), [POPL17](https://dl.acm.org/doi/10.1145/3009837.3009873))
     - Non-probabilistic program verification ([FM24](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_31), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093)) and efficient template-based synthesis in programs ([ATVA25](https://arxiv.org/abs/2408.03796), [AAAI25b](https://ojs.aaai.org/index.php/AAAI/article/view/33213))
 2. Trustworthy AI and Safe Autonomy
     - Certified neural control and safe RL ([AAAI25a](https://ojs.aaai.org/index.php/AAAI/article/view/34840), [CAV25](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_2), [TOSEM25](https://arxiv.org/abs/2410.05641), [NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [TACAS23](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_1), [AAAI23a](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
@@ -69,6 +69,8 @@ My research is concerned with helping programmers ensure that software and AI sy
 * <span style="color:grey">October 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) has received a **Distinguished Tool Paper award** at [ATVA 2025](https://conf.researchr.org/home/atva-2025)!
 
 * <span style="color:grey">October 2025</span>\. [Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](https://arxiv.org/abs/2410.05641) accepted at [TOSEM](https://dl.acm.org/journal/tosem).
+
+* <span style="color:grey">October 2025</span>\. I was awarded the Ministry of Education (MOE) Tier 1b grant for the project "Relational Verification of Probabilistic Models and Programs". I have **multiple openings** for motivated PhD students and interns and **one postdoc opening**. Reach out if interested and see [here](https://djordjezikelic.github.io/openings/) for more details!
 
 * <span style="color:grey">July 2025</span>\. I will attend [CAV 2025](https://aaai.org/conference/aaai/aaai-25/#) in Zagreb, Croatia, and [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark. If you will be around and would like to catch up or connect, please reach out!
 
