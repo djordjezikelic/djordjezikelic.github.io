@@ -74,16 +74,10 @@ My research is concerned with helping programmers ensure that software and AI sy
 
 * <span style="color:grey">July 2025</span>\. I will attend [CAV 2025](https://aaai.org/conference/aaai/aaai-25/#) in Zagreb, Croatia, and [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark. If you will be around and would like to catch up or connect, please reach out!
 
-* <span style="color:grey">May 2025</span>\. [Omega-regular Verification and Control for Distributional Specifications in MDPs](https://arxiv.org/abs/2507.04286) accepted at [CONCUR 2025](https://conferences.au.dk/confest2025/concur).
+* <span style="color:grey">May 2025</span>\. [Omega-regular Verification and Control for Distributional Specifications in MDPs](https://arxiv.org/abs/2507.04286) accepted at [CONCUR 2025](https://conferences.au.dk/confest2025/concur). This work was completed while Ouldouz Neysari was a visiting student in my group. Congratulations to Ouldouz!
 
 * <span style="color:grey">May 2025</span>\. [LP-Based Weighted Model Integration over Non-Linear Real Arithmetic](https://hal.science/hal-05071513/) accepted at [IJCAI 2025](https://2025.ijcai.org/).
 
-* <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://arxiv.org/abs/2505.18833) accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
+* <span style="color:grey">April 2025</span>\. [Supermartingale Certificates for Quantitative Omega-regular Verification and Control](https://arxiv.org/abs/2505.18833) accepted at [CAV 2025](https://conferences.i-cav.org/2025/). This work was completed while Pouya Sadeghi was a visiting student in my group. Congratulations to Pouya!
 
 * <span style="color:grey">February 2025</span>\. I will attend [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#) in Philadelphia, PA, US. If you will around and would like to catch up or connect, please reach out!
-
-* <span style="color:grey">December 2024</span>\. [Refuting Equivalence in Probabilistic Programs with Conditioning](https://arxiv.org/abs/2501.06579) accepted at [TACAS 2025](https://etaps.org/2025/conferences/tacas/).
-
-* <span style="color:grey">December 2024</span>\. Two papers accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/#):
-	- [Neural Control and Certificate Repair via Runtime Monitoring](https://arxiv.org/abs/2412.12996)
-	- [Quantified Linear and Polynomial Arithmetic Satisfiability via Template-based Skolemization](https://arxiv.org/abs/2412.16226)
