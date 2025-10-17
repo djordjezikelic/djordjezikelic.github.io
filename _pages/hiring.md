@@ -34,7 +34,7 @@ I always welcome applications from highly motivated students who wish to pursue 
 
 # Postdoc Position
 
-I have an opening for one postdoc position under the project "Relational Verification of Probabilistic Models and Programs". If you are interested, please drop me an email with your CV, top 3 publications, a few sentences on your research interests and how they relate to my research, and contact details of 2 references.
+I have one postdoc opening under the project "Relational Verification of Probabilistic Models and Programs". If you are interested, please drop me an email with your CV, top 3 publications, a few sentences on your research interests and how they relate to my research, and contact details of 2 references.
 
 # Undergraduate Research Assistantships at SMU
 
