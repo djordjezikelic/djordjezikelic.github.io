@@ -24,6 +24,11 @@ pre {
 
 # <span style="color:grey">2025</span>
 
+39. Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies <br/>
+ACM Transactions on Software Engineering and Methodology. **TOSEM 2025**<br/>
+Jieke Shi, Junda He, Zhou Yang, Đorđe Žikelić, David Lo
+[preprint](https://arxiv.org/abs/2507.04286)
+
 38. PolyQEnt: A Polynomial Quantified Entailment Solver <br/>
 23rd edition of the International Symposium on Automated Technology for Verification and Analysis. **ATVA 2025** <br/>
 Krishnendu Chatterjee, Amir Kafshdar Goharshady, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Milad Saadat, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
