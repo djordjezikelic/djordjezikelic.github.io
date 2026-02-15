@@ -62,7 +62,7 @@ My research is concerned with designing theories and automated methods for ensur
     
 # News
 
-* <span style="color:grey">February 2026</span>\. [AutoSpec: Automating Refinement of RL Specifications](https://www.arxiv.org/abs/2512.01047) accepted at [ICLR 2026](https://iclr.cc/).
+* <span style="color:grey">February 2026</span>\. [Automating the Refinement of Reinforcement Learning Specifications](https://www.arxiv.org/abs/2512.01047) accepted at [ICLR 2026](https://iclr.cc/).
 
 * <span style="color:grey">October 2025</span>\. We will organise the second **Singapore Programming Languages Summit** on November 24, to be held at SMU. If you are a PL researcher based in Singapore (or will be visiting Singapore at the time), please consider participating and also presenting your work at the summit! More details [here](https://sg-pl-summit.github.io/).
 
