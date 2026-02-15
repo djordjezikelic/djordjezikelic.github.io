@@ -43,7 +43,7 @@ My research is concerned with designing theories and automated methods for ensur
     - Probabilistic model and program verification ([CAV25](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_2), [IJCAI24](https://www.ijcai.org/proceedings/2024/1), [PLDI24](https://dl.acm.org/doi/10.1145/3656462), [OOPSLA24](https://dl.acm.org/doi/abs/10.1145/3649824), [CAV23](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_5), [CAV22](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_4), [POPL17](https://dl.acm.org/doi/10.1145/3009837.3009873))
     - Non-probabilistic program verification ([FM24](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_31), [PLDI22](https://dl.acm.org/doi/abs/10.1145/3519939.3523435), [PLDI21](https://dl.acm.org/doi/10.1145/3453483.3454093)) and efficient template-based synthesis in programs ([ATVA25b](https://arxiv.org/abs/2408.03796), [AAAI25](https://ojs.aaai.org/index.php/AAAI/article/view/33213))
 2. Trustworthy AI and Safe Autonomy
-    - Certified neural control and safe RL ([AAAI25a](https://ojs.aaai.org/index.php/AAAI/article/view/34840), [TOSEM25](https://arxiv.org/abs/2410.05641), [NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [AAAI23a](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
+    - Certified neural control and safe RL ([ICLR26](https://www.arxiv.org/abs/2512.01047), [AAAI25a](https://ojs.aaai.org/index.php/AAAI/article/view/34840), [TOSEM25](https://arxiv.org/abs/2410.05641), [NeurIPS23](https://openreview.net/forum?id=Yx8Sw2H5Q7), [AAAI23a](https://ojs.aaai.org/index.php/AAAI/article/view/26407), [AAAI22](https://ojs.aaai.org/index.php/AAAI/article/view/20695))
     - Certified learning and formal verification of ML models (e.g. neural networks) ([AAAI23b](https://ojs.aaai.org/index.php/AAAI/article/view/26747), [NeurIPS21](https://proceedings.neurips.cc/paper/2021/hash/544defa9fddff50c53b71c43e0da72be-Abstract.html), [AAAI21](https://ojs.aaai.org/index.php/AAAI/article/view/16496))
 3. Broader perspective and other applications of probabilistic system verification:
     - Bidding games on graphs ([AAAI23c](https://ojs.aaai.org/index.php/AAAI/article/view/25679), [SODA21](https://epubs.siam.org/doi/10.1137/1.9781611976465.38))
@@ -61,6 +61,8 @@ My research is concerned with designing theories and automated methods for ensur
     - Blockchain protocol analysis ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))  -->
     
 # News
+
+* <span style="color:grey">February 2026</span>\. [AutoSpec: Automating Refinement of RL Specifications](https://www.arxiv.org/abs/2512.01047) accepted at [ICLR 2026](https://iclr.cc/).
 
 * <span style="color:grey">October 2025</span>\. We will organise the second **Singapore Programming Languages Summit** on November 24, to be held at SMU. If you are a PL researcher based in Singapore (or will be visiting Singapore at the time), please consider participating and also presenting your work at the summit! More details [here](https://sg-pl-summit.github.io/).
 
