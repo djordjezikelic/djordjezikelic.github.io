@@ -29,6 +29,7 @@ pre {
 
 # Organizing Committee
 
+- Programming Languages Mentoring Workshop (PLMW) @ PLDI 2026, co-chair
 - Workshop on Post-AI Formal Methods (P-AI-FM) @ AAAI 2026, co-chair
 - Singapore Programming Languages Summit 2025, co-chair
 - Programming Languages Mentoring Workshop (PLMW) @ PLDI 2025
