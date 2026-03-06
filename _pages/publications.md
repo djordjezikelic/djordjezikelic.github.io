@@ -24,13 +24,18 @@ pre {
 
 # <span style="color:grey">2026</span>
 
-40. Automating the Refinement of Reinforcement Learning Specifications <br/>
-14th International Conference on Learning Representations. **ICLR 2026** <br/>
-Tanmay Ambadkar, Đorđe Žikelić, Abhinav Verma <br/>
-[preprint](https://www.arxiv.org/abs/2512.01047)
+41. **(PLDI 2026)** 48th ACM SIGPLAN Conference on Programming Language Design and Implementation <br/>
+SuperDP: Differential Privacy Refutation via Supermartingales <br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[to appear](https://djordjezikelic.github.io/publications/)
 
-39. Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies <br/>
-ACM Transactions on Software Engineering and Methodology. **TOSEM 2026** <br/>
+40. **(ICLR 2026)** 14th International Conference on Learning Representations  <br/>
+Automating the Refinement of Reinforcement Learning Specifications <br/>
+Tanmay Ambadkar, Đorđe Žikelić, Abhinav Verma <br/>
+[paper](https://openreview.net/pdf?id=a5jzk1hv2Y), [preprint](https://www.arxiv.org/abs/2512.01047)
+
+39. **(TOSEM 2026)** ACM Transactions on Software Engineering and Methodology <br/>
+Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies <br/>
 Jieke Shi, Junda He, Zhou Yang, Đorđe Žikelić, David Lo <br/>
 [preprint](https://arxiv.org/abs/2507.04286)
 
