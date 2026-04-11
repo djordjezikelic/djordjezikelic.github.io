@@ -27,7 +27,7 @@ pre {
 41. **(PLDI 2026)** 48th ACM SIGPLAN Conference on Programming Language Design and Implementation <br/>
 SuperDP: Differential Privacy Refutation via Supermartingales <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[to appear](https://djordjezikelic.github.io/publications/)
+[preprint](https://arxiv.org/abs/2603.26215)
 
 40. **(ICLR 2026)** 14th International Conference on Learning Representations  <br/>
 Automating the Refinement of Reinforcement Learning Specifications <br/>
@@ -36,7 +36,7 @@ Tanmay Ambadkar, Đorđe Žikelić, Abhinav Verma <br/>
 
 # <span style="color:grey">2025</span>
 
-39. **(TOSEM 2026)** ACM Transactions on Software Engineering and Methodology <br/>
+39. **(TOSEM 2025)** ACM Transactions on Software Engineering and Methodology <br/>
 Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies <br/>
 Jieke Shi, Junda He, Zhou Yang, Đorđe Žikelić, David Lo <br/>
 [paper](https://dl.acm.org/doi/10.1145/3773034), [preprint](https://arxiv.org/abs/2507.04286)
