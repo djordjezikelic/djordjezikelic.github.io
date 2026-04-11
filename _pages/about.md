@@ -21,9 +21,7 @@ pre {
 }
 </style>
 
-I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I am broadly interested in **Formal Methods and Programming Languages** as well as **Trustworthy AI and Safe Autonomy**
-
-Previously, I obtained my PhD in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis and the Outstanding Scientific Achievement awards at ISTA. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/).
+I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I am broadly interested in **Formal Methods and Programming Languages** as well as **Trustworthy AI and Safe Autonomy**. Previously, I obtained my PhD in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis and the Outstanding Scientific Achievement awards at ISTA. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/).
 
 You can reach me at dzikelic@smu.edu.sg.
 
@@ -81,7 +79,7 @@ My research is concerned with designing theories and automated methods for ensur
 
 * <span style="color:grey">October 2025</span>\. We will organise the inaugural **Workshop on Post-AI Formal Methods (P-AI-FM)** on January 26, co-located with AAAI 2026 in Singapore. We look forward to receiving your work and seeing you at the workshop! More details at the workshop [website](https://www.p-ai-fm.com/).
 
-* <span style="color:grey">October 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) has received a **Distinguished Tool Paper award** at [ATVA 2025](https://conf.researchr.org/home/atva-2025)!
+* <span style="color:grey">October 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) has received a **Distinguished Tool Paper award** at [ATVA 2025](https://conf.researchr.org/home/atva-2025).
 
 * <span style="color:grey">October 2025</span>\. [Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](https://arxiv.org/abs/2410.05641) accepted at [TOSEM](https://dl.acm.org/journal/tosem).
 
