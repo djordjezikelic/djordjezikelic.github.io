@@ -24,6 +24,11 @@ pre {
 
 # <span style="color:grey">2026</span>
 
+42. **(CAV 2026)** 38th International Conference on Computer Aided Verification <br/>
+Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions <br/>
+S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
 41. **(PLDI 2026)** 48th ACM SIGPLAN Conference on Programming Language Design and Implementation <br/>
 SuperDP: Differential Privacy Refutation via Supermartingales <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Đorđe Žikelić<sup>&dagger;</sup><br/>
