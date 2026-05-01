@@ -21,7 +21,7 @@ pre {
 }
 </style>
 
-**I am in the process of moving to Nanyang Technological University (NTU), Singapore. I have openings for motivated PhD students to work with me on topics listed below, or more broadly on topics related to formal methods, trustworthy AI or program verification. See this [page](https://djordjezikelic.github.io/openings/) for more details. Openings for other types of positions (postdocs, interns, visiting students) will be advertised later.**
+**I am in the process of moving to the Nanyang Technological University (NTU), Singapore. I have openings for motivated PhD students to work with me on topics listed below, or more broadly on topics related to formal methods, trustworthy AI or program verification. See this [page](https://djordjezikelic.github.io/openings/) for more details. Openings for other types of positions (postdocs, interns, visiting students) will be advertised later.**
 
 I am an Assistant Professor of Computer Science at the [School of Computing and Information Systems](https://computing.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). I am broadly interested in **Formal Methods and Programming Languages** as well as **Trustworthy AI and Safe Autonomy**. Previously, I obtained my PhD in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be supervised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis and the Outstanding Scientific Achievement awards at ISTA. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/).
 
