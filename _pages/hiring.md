@@ -34,7 +34,7 @@ I welcome applications from highly motivated students who wish to pursue a PhD i
 
 **Financial support.** The PhD programme at NTU provides full scholarships together with a generous monthly stipend for full-time PhD students. See the details [here](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships).
 
-<-- # Undergraduate Research Assistantships at SMU
+<!-- # Undergraduate Research Assistantships at SMU
 
 If you are an undergraduate student at SMU interested in pursuing a research assistantship project, please drop me an email with your CV, transcripts and a few sentences on your research interests and how they relate to my research.
 
