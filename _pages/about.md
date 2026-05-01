@@ -69,6 +69,8 @@ My research is concerned with designing theories and automated methods for ensur
 
 * <span style="color:grey">April-July 2026</span>\. I will attend [ICLR 2026](https://iclr.cc/) in Rio de Janeiro, Brazil, [PLDI 2026](https://pldi26.sigplan.org/) in Denver, US, and [FLOC 2026](https://www.floc26.org/) in Lisbon, Portugal. If you will be around and would like to catch up or connect, please reach out.
 
+* <span style="color:grey">May 2026</span>\. Automated Approach for Solving Infinite-state Polynomial Reachability Games accepted at [IJCAI 2026](https://2026.ijcai.org/).
+
 * <span style="color:grey">April 2026</span>\. Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions accepted at [CAV 2026](https://conferences.i-cav.org/2026/).
 
 * <span style="color:grey">April 2026</span>\. [SuperDP: Differential Privacy Refutation via Supermartingales](https://arxiv.org/abs/2603.26215) accepted at [PLDI 2026](https://pldi26.sigplan.org/).

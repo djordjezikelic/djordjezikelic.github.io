@@ -24,6 +24,11 @@ pre {
 
 # <span style="color:grey">2026</span>
 
+43. **(IJCAI 2026)** 35th International Joint Conference on Artificial Intelligence <br/>
+Automated Approach for Solving Infinite-state Polynomial Reachability Games <br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[coming soon](https://djordjezikelic.github.io/publications/)
+
 42. **(CAV 2026)** 38th International Conference on Computer Aided Verification <br/>
 Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions <br/>
 S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
