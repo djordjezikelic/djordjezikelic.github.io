@@ -18,7 +18,7 @@ pre {
 }
 </style>
 
-We are growing a new research group at the College of Computing and Data Science, NTU, and have multiple openings for motivated students. The research agenda of our group is concerned with designing theories and automated methods for ensuring that software and AI systems are correct, safe, and trustworthy. Our research interests are broad and lie at the interplay of **Formal Methods, Programming Languages, Artificial Intelligence and Machine Learning**, with interest in both theory and automation aspects. Hence, we welcome applicants from a broad range of backgrounds. All positions are **fully funded**.
+We are growing a new research group at NTU and have multiple openings for motivated students. The research agenda of our group is concerned with designing theories and automated methods for ensuring that software and AI systems are correct, safe, and trustworthy. Our research interests are broad and lie at the interplay of **Formal Methods, Programming Languages, Artificial Intelligence and Machine Learning**, with interest in both theory and automation aspects. Hence, we welcome applicants from a broad range of backgrounds. All positions are **fully funded**.
 
 Singapore is a vibrant and cosmopolitan place with a thriving academic landscape. It is also a perfect place for fellow food lovers. NTU is a premier university that provides an excellent research environment with strong groups in formal methods, programming languages, and AI.
 
