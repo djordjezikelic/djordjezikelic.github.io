@@ -27,8 +27,6 @@ I am an Assistant Professor of Computer Science at the [School of Computing and 
 
 You can reach me at dzikelic@smu.edu.sg.
 
-<!-- **I have multiple openings for motivated PhD students, interns, and visiting PhD/master/undergrad students, to work with me on topics listed below, or more broadly on topics related to formal methods, trustworthy AI or program verification. See this [page](https://djordjezikelic.github.io/openings/) for more details.** ->
-
 # Research Interests
 
 My research is concerned with designing theories and automated methods for ensuring that software and AI systems are correct, safe, and trustworthy. My research is both foundational and application driven. On the foundational side, the long-term goal of my work is to contribute to laying theoretical and algorithmic foundations of automated formal verification for probabilistic models and programs. Probabilistic models and programs provide a canonical framework for modelling and implementing computing systems that exhibit uncertain behaviour, with a broad range of applications such as randomised algorithms, communication protocols and networks, security and privacy protocols, control and autonomous systems, and AI. The central application domains that I focus on are trustworthy AI and safe autonomy. My goal is to develop certified learning and formal verification methods for designing trustworthy AI and safe autonomous systems, especially in the presence of uncertainty. My current research interests include:
