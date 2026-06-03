@@ -24,15 +24,15 @@ pre {
 
 # <span style="color:grey">2026</span>
 
-43. **(IJCAI 2026)** 35th International Joint Conference on Artificial Intelligence <br/>
-Automated Approach for Solving Infinite-state Polynomial Reachability Games <br/>
-Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
-
-42. **(CAV 2026)** 38th International Conference on Computer Aided Verification <br/>
+43. **(CAV 2026)** 38th International Conference on Computer Aided Verification <br/>
 Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions <br/>
 S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
 [coming soon](https://djordjezikelic.github.io/publications/)
+
+42. **(IJCAI 2026)** 35th International Joint Conference on Artificial Intelligence <br/>
+Automated Approach for Solving Infinite-state Polynomial Reachability Games <br/>
+Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Maximilian Seeliger, Đorđe Žikelić<sup>&dagger;</sup><br/>
+[preprint](https://arxiv.org/abs/2605.10169)
 
 41. **(PLDI 2026)** 48th ACM SIGPLAN Conference on Programming Language Design and Implementation <br/>
 SuperDP: Differential Privacy Refutation via Supermartingales <br/>

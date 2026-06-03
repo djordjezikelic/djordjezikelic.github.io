@@ -59,6 +59,9 @@ My research is concerned with designing theories and automated methods for ensur
     
 # News
 
+* <span style="color:grey">June 2026</span>\. We will organize a NII Shonan meeting on [Frontiers of Formal Methods for
+Probabilistic Models and Programs](https://sites.google.com/view/frontiers-probabilistic-models/) from June 22 - 26. Jointly organized with S. Akshay and Amir Goharshady.
+
 * <span style="color:grey">April-July 2026</span>\. I will attend [ICLR 2026](https://iclr.cc/) in Rio de Janeiro, Brazil, [PLDI 2026](https://pldi26.sigplan.org/) in Denver, US, and [FLOC 2026](https://www.floc26.org/) in Lisbon, Portugal. If you will be around and would like to catch up or connect, please reach out.
 
 * <span style="color:grey">May 2026</span>\. Automated Approach for Solving Infinite-state Polynomial Reachability Games accepted at [IJCAI 2026](https://2026.ijcai.org/).
@@ -72,11 +75,3 @@ My research is concerned with designing theories and automated methods for ensur
 * <span style="color:grey">December 2025</span>\. I gave an invited talk on "Neural Stochastic Control and Verification with Supermartingale Certificates" at the [QuantFormal](https://quantformal-2025.vercel.app/) workshop at [FSTTCS 2025](https://www.fsttcs.org.in/2025/) in Goa, India. Thank you for the invitation, I very much enjoyed the conference and many insightful discussions.
 
 * <span style="color:grey">October 2025</span>\. We will organise the second **Singapore Programming Languages Summit** on November 24, to be held at SMU. If you are a PL researcher based in Singapore (or will be visiting Singapore at the time), please consider participating and also presenting your work at the summit! More details [here](https://sg-pl-summit.github.io/).
-
-* <span style="color:grey">October 2025</span>\. We will organise the inaugural **Workshop on Post-AI Formal Methods (P-AI-FM)** on January 26, co-located with AAAI 2026 in Singapore. We look forward to receiving your work and seeing you at the workshop! More details at the workshop [website](https://www.p-ai-fm.com/).
-
-* <span style="color:grey">October 2025</span>\. [PolyQEnt: A Polynomial Quantified Entailment Solver](https://arxiv.org/abs/2408.03796) has received a **Distinguished Tool Paper award** at [ATVA 2025](https://conf.researchr.org/home/atva-2025).
-
-* <span style="color:grey">October 2025</span>\. [Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](https://arxiv.org/abs/2410.05641) accepted at [TOSEM](https://dl.acm.org/journal/tosem).
-
-* <span style="color:grey">October 2025</span>\. I was awarded the Ministry of Education (MOE) Tier 1b grant for the project "Relational Verification of Probabilistic Models and Programs". I have **multiple openings** for motivated PhD students and interns. Reach out if interested and see [here](https://djordjezikelic.github.io/openings/) for more details.
