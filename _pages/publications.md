@@ -27,7 +27,7 @@ pre {
 43. **(CAV 2026)** 38th International Conference on Computer Aided Verification <br/>
 Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions <br/>
 S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
-[coming soon](https://djordjezikelic.github.io/publications/)
+[preprint](https://hal.science/hal-05616940)
 
 42. **(IJCAI 2026)** 35th International Joint Conference on Artificial Intelligence <br/>
 Automated Approach for Solving Infinite-state Polynomial Reachability Games <br/>

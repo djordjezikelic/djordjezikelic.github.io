@@ -68,9 +68,9 @@ Probabilistic Models and Programs](https://sites.google.com/view/frontiers-proba
 
 * <span style="color:grey">April 2026</span>\. Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions accepted at [CAV 2026](https://conferences.i-cav.org/2026/).
 
-* <span style="color:grey">April 2026</span>\. [SuperDP: Differential Privacy Refutation via Supermartingales](https://arxiv.org/abs/2603.26215) accepted at [PLDI 2026](https://pldi26.sigplan.org/).
+* <span style="color:grey">April 2026</span>\. SuperDP: Differential Privacy Refutation via Supermartingales accepted at [PLDI 2026](https://pldi26.sigplan.org/).
 
-* <span style="color:grey">February 2026</span>\. [Automating the Refinement of Reinforcement Learning Specifications](https://www.arxiv.org/abs/2512.01047) accepted at [ICLR 2026](https://iclr.cc/).
+* <span style="color:grey">February 2026</span>\. Automating the Refinement of Reinforcement Learning Specifications accepted at [ICLR 2026](https://iclr.cc/).
 
 * <span style="color:grey">December 2025</span>\. I gave an invited talk on "Neural Stochastic Control and Verification with Supermartingale Certificates" at the [QuantFormal](https://quantformal-2025.vercel.app/) workshop at [FSTTCS 2025](https://www.fsttcs.org.in/2025/) in Goa, India. Thank you for the invitation, I very much enjoyed the conference and many insightful discussions.
 
