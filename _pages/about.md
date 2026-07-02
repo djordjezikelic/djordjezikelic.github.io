@@ -59,7 +59,7 @@ My research is concerned with designing theories and automated methods for ensur
     
 # News
 
-* <span style="color:grey">June 2026</span>\. We will organise a NII Shonan meeting on [Frontiers of Formal Methods for
+* <span style="color:grey">June 2026</span>\. We will organise a NII Shonan meeting on the [Frontiers of Formal Methods for
 Probabilistic Models and Programs](https://sites.google.com/view/frontiers-probabilistic-models/) from June 22 - 26. Jointly organised with S. Akshay and Amir Goharshady.
 
 * <span style="color:grey">April-July 2026</span>\. I will attend [ICLR 2026](https://iclr.cc/) in Rio de Janeiro, Brazil, [PLDI 2026](https://pldi26.sigplan.org/) in Denver, US, and [FLOC 2026](https://www.floc26.org/) in Lisbon, Portugal. If you will be around and would like to catch up or connect, please reach out.
