@@ -20,7 +20,7 @@ pre {
 
 # Program Committee
 
-- **2027:** TACAS, OOPSLA
+- **2027:** TACAS, OOPSLA, AAAI
 - **2026:** AAAI, AAAI-DC, TACAS, PLDI, IJCAI-ECAI, NeurIPS, ATVA, SAIV, SETTA
 - **2025:** AAAI, CAV, IJCAI, ECAI, NeurIPS (**Top Reviewer**), VMCAI, ASE, SAIV, SETTA
 - **2024:** AAAI, IJCAI, ECAI, ATVA, SETTA (**Distinguished Reviewer Award**)
