@@ -60,10 +60,10 @@ My research is concerned with designing theories and automated methods for ensur
 # News
 
 * <span style="color:grey">July 2026</span>\. Several exciting activities coming up during [FLOC 2026](https://www.floc26.org/):
-- We will present our paper "Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions" at [CAV](https://conferences.i-cav.org/2026/).
-- I will give an invited talk on "Neural Stochastic Control and Verification for Safe Autonomy" at [SAIV](https://aiverification.org/2026/).
-- I will give a talk on "SuperDP: Differential Privacy Refutation via Supermartingales" at [VeriProP](https://veriprop.github.io/2026/).
-- Ehsan Goharshady will give a talk on "Refuting Equivalence in Probabilistic Programs" at [PERR](https://perr-workshop.github.io/2026/program/).
+  - We will present our paper "Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions" at [CAV](https://conferences.i-cav.org/2026/).
+  - I will give an invited talk on "Neural Stochastic Control and Verification for Safe Autonomy" at [SAIV](https://aiverification.org/2026/).
+  - I will give a talk on "SuperDP: Differential Privacy Refutation via Supermartingales" at [VeriProP](https://veriprop.github.io/2026/).
+  - Ehsan Goharshady will give a talk on "Refuting Equivalence in Probabilistic Programs" at [PERR](https://perr-workshop.github.io/2026/program/).
 
 * <span style="color:grey">June 2026</span>\. We will organise a NII Shonan meeting on the [Frontiers of Formal Methods for
 Probabilistic Models and Programs](https://sites.google.com/view/frontiers-probabilistic-models/) from June 22 - 26. Jointly organised with S. Akshay and Amir Goharshady.
