@@ -25,7 +25,7 @@ I am an assistant professor at the [College of Computing and Data Science at the
 
 You can reach me at dorde.zikelic@ntu.edu.sg.
 
-**I have openings for motivated PhD students to work with me on topics listed below, or more broadly on topics related to formal methods, trustworthy AI or program verification. Please refer to this [page](https://djordjezikelic.github.io/openings/) for more details and on what to include in your application. Openings for other types of positions (postdocs, interns, visiting students) will be advertised later.**
+**I have openings for motivated PhD students to work with me on topics listed below, or more broadly on topics related to formal methods, trustworthy AI or program verification. See this [page](https://djordjezikelic.github.io/openings/) for more details. Openings for other types of positions (postdocs, interns, visiting students) will be advertised later.**
 
 # Research Interests
 
