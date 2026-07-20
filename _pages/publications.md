@@ -44,12 +44,12 @@ Automating the Refinement of Reinforcement Learning Specifications <br/>
 Tanmay Ambadkar, Đorđe Žikelić, Abhinav Verma <br/>
 [paper](https://openreview.net/pdf?id=a5jzk1hv2Y), [preprint](https://www.arxiv.org/abs/2512.01047)
 
-# <span style="color:grey">2025</span>
-
-39. **(TOSEM 2025)** ACM Transactions on Software Engineering and Methodology <br/>
+39. **(TOSEM 2026)** ACM Transactions on Software Engineering and Methodology <br/>
 Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies <br/>
 Jieke Shi, Junda He, Zhou Yang, Đorđe Žikelić, David Lo <br/>
-[paper](https://dl.acm.org/doi/10.1145/3773034), [preprint](https://arxiv.org/abs/2507.04286)
+[paper](https://dl.acm.org/doi/full/10.1145/3773034), [preprint](https://arxiv.org/abs/2507.04286)
+
+# <span style="color:grey">2025</span>
 
 38. **(ATVA 2025)** 23rd International Symposium on Automated Technology for Verification and Analysis <br/>
 PolyQEnt: A Polynomial Quantified Entailment Solver <br/>
