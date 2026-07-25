@@ -24,6 +24,11 @@ pre {
 
 # <span style="color:grey">2026</span>
 
+44. **(ATVA 2026)** 24th International Symposium on Automated Technology for Verification and Analysis <br/>
+Supermartingale Certificates for Parametric MDPs <br/>
+Kaushik Mallik,  Đorđe Žikelić<sup>&dagger;</sup><br/>
+[to appear](https://djordjezikelic.github.io/publications/)
+
 43. **(CAV 2026)** 38th International Conference on Computer Aided Verification <br/>
 Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions <br/>
 S. Akshay, Supratik Chakraborty, Soroush Farokhnia, Amir Goharshady, Harshit J Motwani,  Đorđe Žikelić<sup>&dagger;</sup><br/>
@@ -37,7 +42,7 @@ Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Maximilian Se
 41. **(PLDI 2026)** 48th ACM SIGPLAN Conference on Programming Language Design and Implementation <br/>
 SuperDP: Differential Privacy Refutation via Supermartingales <br/>
 Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Đorđe Žikelić<sup>&dagger;</sup><br/>
-[preprint](https://arxiv.org/abs/2603.26215)
+[paper](https://dl.acm.org/doi/abs/10.1145/3808296), [preprint](https://arxiv.org/abs/2603.26215)
 
 40. **(ICLR 2026)** 14th International Conference on Learning Representations  <br/>
 Automating the Refinement of Reinforcement Learning Specifications <br/>

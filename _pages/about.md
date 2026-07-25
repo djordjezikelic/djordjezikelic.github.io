@@ -21,7 +21,7 @@ pre {
 }
 </style>
 
-I am an assistant professor at the [College of Computing and Data Science at the Nanyang Technological University (NTU)](https://www.ntu.edu.sg/computing). I am broadly interested in **Formal Methods and Programming Languages** as well as **Trustworthy AI and Safe Autonomy**. Before joining NTU, I was an assistant professor at Singapore Management University (SMU). I obtained my PhD in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be advised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis and the Outstanding Scientific Achievement awards at ISTA. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/).
+I am an assistant professor at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/computing). I am broadly interested in **Formal Methods and Programming Languages** as well as **Trustworthy AI and Safe Autonomy**. Before joining NTU, I was an assistant professor at Singapore Management University (SMU). I obtained my PhD in 2023 at the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home/), where I was fortunate to be advised by [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) and [Petr Novotný](https://www.fi.muni.cz/~xnovot18/). For my PhD work, I received the Outstanding PhD Thesis and the Outstanding Scientific Achievement awards at ISTA. Before that, I obtained bachelor's and master's degrees in mathematics at the [University of Cambridge](https://www.cam.ac.uk/).
 
 You can reach me at djordje.zikelic@ntu.edu.sg.
 
@@ -58,6 +58,8 @@ My research is concerned with designing theories and automated methods for ensur
     - Blockchain protocol analysis ([PODC24](https://dl.acm.org/doi/abs/10.1145/3662158.3662769))  -->
     
 # News
+
+* <span style="color:grey">July 2026</span>\. Supermartingale Certificates for Parametric MDPs accepted at [ATVA 2026](https://conf.researchr.org/track/aplas-atva-2026/atva-2026).
 
 * <span style="color:grey">July 2026</span>\. Several exciting activities coming up during [FLOC 2026](https://www.floc26.org/):
   - We will present our paper "Parallel Abstract Interpretation for Polynomial Programs with Range Bound Assertions" at [CAV](https://conferences.i-cav.org/2026/).
