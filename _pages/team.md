@@ -18,7 +18,7 @@ pre {
 }
 </style>
 
-I am fortunate to work with the following team of bright students.
+I am fortunate to work with the following team of students.
 
 # PhD Students
 
