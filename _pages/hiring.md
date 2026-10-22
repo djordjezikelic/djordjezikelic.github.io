@@ -34,6 +34,16 @@ I welcome applications from highly motivated students who wish to pursue a PhD i
 
 **Financial support.** The PhD programme at NTU provides full scholarships together with a generous monthly stipend for full-time PhD students. See the details [here](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships).
 
+# Postdoc Positions
+
+We have one postdoc opening, in the broad area of probabilistic verification and trustworthy AI. Solid background in formal verification, neurosymbolic AI, and/or control theory is expected. The position is for 18 months (with possible extension) and comes with a competitive salary and benefits. To apply, please send me your **CV, two best publications, contacts of two reference letter writers, and a description of the research topic** that you would like to work on together.
+
+# Undergraduate Research Internships 
+
+**For NTU students:** I usually advertise a few projects every year through the Undergraduate Research Experience on Campus (URECA) program. If you are interested in working with me, please contact me once the URECA projects have been advertised.
+
+**For students from other universities:** I take fully funded undergraduate and master student interns to work with me through the [NTU Global Connect Fellowship](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship) programme. If you are interested in working with me, please contact me **after applying**.
+
 <!-- # Undergraduate Research Assistantships at SMU
 
 If you are an undergraduate student at SMU interested in pursuing a research assistantship project, please drop me an email with your CV, transcripts and a few sentences on your research interests and how they relate to my research.

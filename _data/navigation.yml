@@ -12,8 +12,11 @@ main:
   - title: "Service"
     url: /service/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Team"
+    url: /team/
 
   - title: "Openings"
     url: /openings/
+
+  - title: "CV"
+    url: /cv/
